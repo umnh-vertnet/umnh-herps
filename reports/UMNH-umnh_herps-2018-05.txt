@@ -1,0 +1,250 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 153
+Number of records retrieved in searches: 3123
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 6
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 138
+	Country: Guatemala ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 5
+	Date: 2018-05-29 ; Times: 10
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 29
+	Date: 2018-05-24 ; Times: 25
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-08 ; Times: 8
+	Date: 2018-05-09 ; Times: 5
+	Date: 2018-05-31 ; Times: 3
+	Date: 2018-05-30 ; Times: 4
+	Date: 2018-05-15 ; Times: 4
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-16 ; Times: 25
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-10 ; Times: 13
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-19 ; Times: 2
+	Date: 2018-05-18 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:fitzingeri genus:Craugastor institutioncode:UMNH" ; Times: 3
+	Query: "Sceloporus Salt Lake City (Utah )" ; Times: 2
+	Query: "specificepithet:venulosus genus:Trachycephalus institutioncode:UMNH" ; Times: 3
+	Query: "Crotalus lutosus Washington county" ; Times: 1
+	Query: "genus:Gambelia county:&#34;San Juan&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne institutioncode:UMNH" ; Times: 3
+	Query: "specificepithet:arenicolor genus:Hyla institutioncode:UMNH" ; Times: 3
+	Query: "specificepithet:dissoleucus genus:Micrurus" ; Times: 7
+	Query: "specificepithet:callidryas genus:Agalychnis institutioncode:UMNH" ; Times: 5
+	Query: "dermatemys mawii" ; Times: 1
+	Query: "Liotyphlops albirostris" ; Times: 1
+	Query: "specificepithet:pustulosus genus:Engystomops institutioncode:UMNH" ; Times: 3
+	Query: "specificepithet:melanonotus genus:Leptodactylus institutioncode:UMNH" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34;" ; Times: 4
+	Query: "specificepithet:ochrocephala genus:Oscaecilia" ; Times: 1
+	Query: "Lampropeltis annulata" ; Times: 1
+	Query: "genus:Oscaecilia" ; Times: 2
+	Query: "Apalone mutica Greene County Mississippi" ; Times: 1
+	Query: "catalognumber:5545 institutioncode:UMNH" ; Times: 2
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 3
+	Query: "genus:Oscaecilia year &gt;= 1950" ; Times: 1
+	Query: "specificepithet:dissoleucus genus:Micrurus country:&#34;Panama&#34; institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:bottae genus:Charina stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Menard&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "liotyphlops albirostris" ; Times: 2
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Panama&#34;" ; Times: 1
+	Query: "kinosternon acutum" ; Times: 1
+	Query: "genus:Xantusia county:&#34;San Juan&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "gambelia washoe county" ; Times: 2
+	Query: "specificepithet:marina genus:Rhinella institutioncode:UMNH" ; Times: 3
+	Query: "Micrurus dissoleucus" ; Times: 1
+	Query: "specificepithet:dissoleucus genus:Micrurus country:&#34;Panama&#34;" ; Times: 3
+	Query: "apalone mutica Greene County Mississippi" ; Times: 2
+	Query: "Chitra chitra" ; Times: 3
+	Query: "specificepithet:dorsalis genus:Rhinophrynus institutioncode:UMNH" ; Times: 3
+	Query: "pachyura" ; Times: 1
+	Query: "Oscaecilia" ; Times: 2
+	Query: "Oscaecilia ochrocephala" ; Times: 1
+	Query: "genus:Phrynosoma stateprovince:&#34;Utah&#34; year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:intermontana genus:Spea institutioncode:UMNH" ; Times: 3
+	Query: "Bolitoglossa biseriata" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "podocnemis unifilis" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea institutioncode:UMNH" ; Times: 3
+	Query: "Terrapene mexicana" ; Times: 1
+	Query: "specificepithet:dissoleucus genus:Micrurus institutioncode:UMNH" ; Times: 4
+	Query: "class:Reptilia stateprovince:&#34;Herrera&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:valliceps genus:Incilius institutioncode:UMNH" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34; institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris institutioncode:UMNH" ; Times: 6
+	Query: "18002" ; Times: 1
+	Query: "Gambelia Washoe county" ; Times: 1
+	Query: "specificepithet:auratus genus:Dendrobates institutioncode:UMNH" ; Times: 3
+	Query: "genus:glyptemys sex:male OR female" ; Times: 1
+	Query: "Platysternon" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus institutioncode:UMNH" ; Times: 4
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:UMNH" ; Times: 3
+	Query: "diadophis punctatus regalis" ; Times: 2
+	Query: "specificepithet:sylvaticus stateprovince:&#34;Alaska&#34;" ; Times: 2
+	Query: "specificepithet:pipa genus:Pipa institutioncode:UMNH" ; Times: 3
+	Query: "specificepithet:punctatus genus:Anaxyrus institutioncode:UMNH" ; Times: 4
+	Query: "specificepithet:darwinii genus:Rhinoderma institutioncode:UMNH" ; Times: 3
+	Query: "specificepithet:caerulea genus:Litoria institutioncode:UMNH" ; Times: 3
+	Query: "Charina utah" ; Times: 3
+	Query: "genus:Crotaphytus county:&#34;San Juan&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Washington county crotalus lutosus" ; Times: 2
+	Query: "specificepithet:mawii" ; Times: 1
+	Query: "Chelydra rossignonii" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira stateprovince:&#34;Darien&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:diastema genus:Diasporus institutioncode:UMNH" ; Times: 3
+	Query: "kinosternon herrerai" ; Times: 1
+	Query: "specificepithet:nigrocinctus genus:Micrurus stateprovince:&#34;Panama&#34; country:&#34;Panama&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 99 (out of 1178 download events in this period)
+Total number of records downloaded: 4224
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 25
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 45
+	Country: United Kingdom ; Times: 3
+	Country: Spain ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 4
+	Date: 2018-05-07 ; Times: 6
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-16 ; Times: 4
+	Date: 2018-05-02 ; Times: 5
+	Date: 2018-05-01 ; Times: 7
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-19 ; Times: 8
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-08 ; Times: 3
+	Date: 2018-05-09 ; Times: 23
+	Date: 2018-05-18 ; Times: 16
+	Date: 2018-05-20 ; Times: 2
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 4
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-26 ; Times: 3
+	Date: 2018-05-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Eurycea longicauda" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Lampropeltis annulata" ; Times: 1
+	Query: "kinosternon integrum" ; Times: 1
+	Query: "oedipina" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus" ; Times: 1
+	Query: "Sphaerodactylus glaucus" ; Times: 1
+	Query: "kinosternon scorpioides" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "Dermophis mexicanus" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "ensatina" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "Lithobates yavapaiensis" ; Times: 1
+	Query: "kinosternon herrerai" ; Times: 1
+	Query: "genus:Atropoides OR Cerrophidion OR Bothriechis OR Lachesis OR Mixcoatlus OR Ophryacus OR porthidium" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 2
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "Eurycea lucifuga" ; Times: 1
+	Query: "class:amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "genus:Oscaecilia" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "genus:coniophanes sex:male OR female" ; Times: 1
+	Query: "Bolitoglossa biseriata" ; Times: 1
+	Query: "genus:cophosaurus sex:male OR female" ; Times: 1
+	Query: "Platysternon" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "genus:nerodia sex:male OR female" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 1
+	Query: "genus:pseudemys sex:male OR female" ; Times: 1
+	Query: "Ctenosaura acanthura" ; Times: 1
+	Query: "sceloporus grammicus" ; Times: 1
+	Query: "Siren intermedia" ; Times: 2
+	Query: "dermatemys mawii" ; Times: 1
+	Query: "dicamptodon ensatus" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "genus:rhinocheilus sex:male OR female" ; Times: 1
+	Query: "Eurycea nana" ; Times: 1
+	Query: "class:REPTILIA stateprovince:&#34;SINALOA&#34;" ; Times: 1
+	Query: "pituophis deppei" ; Times: 1
+	Query: "class:amphibia country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "genus:uma sex:male OR female" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 2
+	Query: "Leptodeira cussiliris" ; Times: 1
+	Query: "genus:sonora sex:male OR female" ; Times: 1
+	Query: "Thamnophis cyrtopsis" ; Times: 1
+	Query: "kinosternon acutum" ; Times: 1
+	Query: "genus:urosaurus sex:male OR female" ; Times: 1
+	Query: "class:Reptilia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "genus:crotalus" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "genus:dipsosaurus sex:male OR female" ; Times: 1
+	Query: "Claudius angustatus" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 1
+	Query: "Lepidochelys kempii" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "Thamnophis marcianus" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "genus:trimorphodon sex:male OR female" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "class:AMPHIBIA stateprovince:&#34;SINALOA&#34;" ; Times: 2
+	Query: "Rhinoclemmys areolata" ; Times: 1
+	Query: "Chelydra rossignonii" ; Times: 1
+	Query: "Thamnophis eques" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 1
+	Query: "Oscaecilia" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "trachemys gaigeae" ; Times: 1
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Terrapene mexicana" ; Times: 1
+	Query: "class:Amphibia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Serpentes" ; Times: 1
+	Query: "Thamnophis sirtalis infernalis" ; Times: 1
+	Query: "genus:coleonyx sex:male OR female" ; Times: 1
+	Query: "Leptodeira maculata" ; Times: 1
+	Query: "kinosternon leucostomum" ; Times: 1
+
+
+End of report.
