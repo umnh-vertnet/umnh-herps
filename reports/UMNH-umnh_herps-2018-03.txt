@@ -1,0 +1,244 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 366
+Number of records retrieved in searches: 4510
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Israel ; Times: 4
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 339
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 36
+	Date: 2018-03-29 ; Times: 4
+	Date: 2018-03-17 ; Times: 3
+	Date: 2018-03-16 ; Times: 3
+	Date: 2018-03-15 ; Times: 7
+	Date: 2018-03-12 ; Times: 6
+	Date: 2018-03-11 ; Times: 6
+	Date: 2018-03-27 ; Times: 29
+	Date: 2018-03-31 ; Times: 1
+	Date: 2018-03-30 ; Times: 3
+	Date: 2018-03-19 ; Times: 12
+	Date: 2018-03-18 ; Times: 10
+	Date: 2018-03-01 ; Times: 5
+	Date: 2018-03-02 ; Times: 30
+	Date: 2018-03-03 ; Times: 10
+	Date: 2018-03-04 ; Times: 4
+	Date: 2018-03-05 ; Times: 8
+	Date: 2018-03-06 ; Times: 13
+	Date: 2018-03-07 ; Times: 12
+	Date: 2018-03-08 ; Times: 5
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-24 ; Times: 4
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-22 ; Times: 2
+	Date: 2018-03-23 ; Times: 26
+	Date: 2018-03-20 ; Times: 7
+	Date: 2018-03-21 ; Times: 41
+	Date: 2018-03-26 ; Times: 76
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia locality:Penonome stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34; institutioncode:UMNH" ; Times: 1
+	Query: "genus:Erythrolamprus" ; Times: 3
+	Query: "genus:Cuora specificepithet:flavomarginata" ; Times: 5
+	Query: "cupreus country:&#34;Nicaragua&#34;" ; Times: 4
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Panama&#34;" ; Times: 2
+	Query: "specificepithet:triangulum genus:Lampropeltis country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:carbonaria genus:Chelonoidis" ; Times: 2
+	Query: "genus:Crocodylus specificepithet:johnsoni" ; Times: 5
+	Query: "chelydra rossignonii" ; Times: 3
+	Query: "genus:Salvadora specificepithet:lemniscata" ; Times: 5
+	Query: "specificepithet:platura genus:Pelamis country:&#34;Panama&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34; AND (NOT KU NOT CAS)" ; Times: 1
+	Query: "genus:Tantilla country:&#34;Panama&#34;" ; Times: 2
+	Query: "specificepithet:margaritiferus genus:Drymobius country:&#34;Panama&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Penonome stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 3
+	Query: "genus:Spilotes specificepithet:pullatus" ; Times: 2
+	Query: "class:Reptilia catalognumber:5545 institutioncode:UMNH" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Rhinoderma specificepithet:darwinii" ; Times: 5
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "genus:Dermochelys specificepithet:coriacea" ; Times: 2
+	Query: "genus:Atelopus specificepithet:varius" ; Times: 2
+	Query: "specificepithet:intermontana genus:Spea stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:rabdocephalus genus:Xenodon country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Incilius specificepithet:mazatlanensis" ; Times: 6
+	Query: "specificepithet:pachyura genus:Urotheca country:&#34;Panama&#34; institutioncode:UMNH" ; Times: 1
+	Query: "21570" ; Times: 1
+	Query: "specificepithet:pullatus genus:Spilotes country:&#34;Panama&#34;" ; Times: 1
+	Query: "Spea intermontana CM" ; Times: 1
+	Query: "genus:Crotaphytus specificepithet:collaris" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 1
+	Query: "16577" ; Times: 1
+	Query: "genus:Erpeton specificepithet:tentaculatum" ; Times: 5
+	Query: "specificepithet:berlandieri genus:Gopherus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:nebulatus genus:Sibon country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Macrochelys specificepithet:temminckii" ; Times: 2
+	Query: "genus:Xenodon specificepithet:rabdocephalus" ; Times: 5
+	Query: "genus:Acrochordus specificepithet:javanicus" ; Times: 5
+	Query: "genus:Tantilla specificepithet:hobartsmithi" ; Times: 2
+	Query: "16171" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:UMNH" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "genus:Lampropeltis specificepithet:pyromelana" ; Times: 6
+	Query: "specificepithet:fulgidus genus:Oxybelis country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Apalone specificepithet:spinifera" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34; AND (NOT KU NOT CAS NOT UMMZ)" ; Times: 3
+	Query: "vntype:specimen specificepithet:albirostris genus:Liotyphlops" ; Times: 4
+	Query: "genus:Incilius specificepithet:coniferus" ; Times: 6
+	Query: "catalognumber:15730 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Liotyphlops country:&#34;Panama&#34;" ; Times: 2
+	Query: "genus:Cuora specificepithet:amboinensis" ; Times: 5
+	Query: "terrapene yucatana" ; Times: 6
+	Query: "genus:Crotalus specificepithet:molossus" ; Times: 2
+	Query: "class:Reptilia country:&#34;Panama&#34; AND (NOT KU NOT UF NOT UMMZ NOT USNM ) institutioncode:UMNH" ; Times: 1
+	Query: "genus:Chironius specificepithet:carinatus" ; Times: 5
+	Query: "genus:Micrurus specificepithet:nigrocinctus" ; Times: 2
+	Query: "specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "Leptodeira nigrofasciata" ; Times: 3
+	Query: "Washington county Utah Crotalus" ; Times: 2
+	Query: "class:Reptilia locality:Macaracas stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Los SAntos&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Kinosternon specificepithet:hirtipes" ; Times: 2
+	Query: "genus:Oxybelis specificepithet:aeneus" ; Times: 2
+	Query: "Lithobates pipiens" ; Times: 2
+	Query: "specificepithet:dissoleucus genus:Micrurus country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:corais genus:Drymarchon country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Heloderma specificepithet:suspectum" ; Times: 2
+	Query: "genus:Dasypeltis specificepithet:scabra" ; Times: 2
+	Query: "tantilla maricopa" ; Times: 1
+	Query: "cuora amboinensis" ; Times: 2
+	Query: "genus:Salvadora specificepithet:mexicana" ; Times: 5
+	Query: "specificepithet:schlegelii genus:Bothriechis country:&#34;Panama&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Herrera&#34; country:&#34;Panama&#34;" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34; AND (NOT PELAMIS )" ; Times: 1
+	Query: "catalognumber:15732 institutioncode:UMNH" ; Times: 2
+	Query: "genus:Leptophis specificepithet:depressirostris" ; Times: 5
+	Query: "genus:Coniophanes specificepithet:imperialis" ; Times: 2
+	Query: "podocnemis lewyana" ; Times: 1
+	Query: "genus:Masticophis specificepithet:mentovarius" ; Times: 5
+	Query: "genus:Triprion specificepithet:petasatus" ; Times: 5
+	Query: "class:Reptilia locality:Cerro Campana stateprovince:&#34;Panama&#34; country:&#34;Panama&#34;" ; Times: 3
+	Query: "genus:Kinosternon specificepithet:integrum" ; Times: 5
+	Query: "genus:Pseustes specificepithet:shropshirei" ; Times: 10
+	Query: "Crotalus horridus stateprovince:&#34;Pennsylvania&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "genus:Rhinoclemmys country:&#34;Panama&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Scurry&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "genus:Platysternon specificepithet:megacephalum" ; Times: 6
+	Query: "genus:Pseustes country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "specificepithet:cenchria genus:Epicrates country:&#34;Panama&#34;" ; Times: 1
+	Query: "tantilla Maricopa" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34;" ; Times: 4
+	Query: "genus:Ficimia specificepithet:streckeri" ; Times: 5
+	Query: "genus:Tantilla stateprovince:&#34;Arizona&#34; institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:annulatus genus:Corallus country:&#34;Panama&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Herrera&#34; country:&#34;Panama&#34; institutioncode:UMNH" ; Times: 1
+	Query: "genus:Varanus specificepithet:varius" ; Times: 5
+	Query: "(Lithobates catesbeianus)" ; Times: 2
+	Query: "coniophanes piceivittis" ; Times: 1
+	Query: "genus:Drymobius specificepithet:margaritiferus" ; Times: 2
+	Query: "specificepithet:pachyura genus:Urotheca country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:alvarius stateprovince:&#34;california&#34;" ; Times: 11
+	Query: "specificepithet:mipartitus genus:Micrurus country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Elseya specificepithet:dentata" ; Times: 6
+	Query: "specificepithet:sclateri genus:Enuliophis country:&#34;Panama&#34;" ; Times: 1
+	Query: "class:Reptilia locality:El Valle de Anton stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:nigrocinctus genus:Micrurus country:&#34;Panama&#34; AND (NOT MCZ)" ; Times: 1
+	Query: "Manolepis putnami" ; Times: 1
+	Query: "(Lithobates sylvaticus)" ; Times: 2
+	Query: "genus:Clemmys specificepithet:guttata" ; Times: 2
+	Query: "Tantilla maricopa" ; Times: 1
+	Query: "genus:Anaxyrus specificepithet:microscaphus" ; Times: 2
+	Query: "specificepithet:constrictor genus:Boa stateprovince:&#34;Panama&#34; country:&#34;Panama&#34; AND (NOT MCZ)" ; Times: 1
+	Query: "class:Reptilia locality:Anton stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Panama&#34;" ; Times: 2
+	Query: "genus:Trachemys country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Conophis specificepithet:lineatus" ; Times: 5
+	Query: "genus:Kinosternon country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Crotalus specificepithet:durissus" ; Times: 2
+	Query: "genus:Basiliscus specificepithet:basiliscus" ; Times: 2
+	Query: "genus:Pelomedusa specificepithet:subrufa" ; Times: 2
+	Query: "catalognumber:20841" ; Times: 1
+	Query: "15144" ; Times: 1
+	Query: "specificepithet:nasutum genus:Porthidium country:&#34;Panama&#34;" ; Times: 1
+	Query: "cerastes utah" ; Times: 1
+	Query: "genus:Pseudoboa country:&#34;Panama&#34;" ; Times: 2
+	Query: "class:Reptilia locality:El Valle stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "heloderma utah" ; Times: 2
+	Query: "genus:Bothrops specificepithet:atrox" ; Times: 2
+	Query: "genus:Drymarchon specificepithet:melanurus" ; Times: 6
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Panama&#34;" ; Times: 1
+	Query: "18525" ; Times: 1
+	Query: "genus:Tarentola specificepithet:mauritanica " ; Times: 2
+	Query: "genus:Spea specificepithet:multiplicata" ; Times: 3
+	Query: "genus:Ctenosaura specificepithet:hemilopha" ; Times: 2
+	Query: "genus:Epicrates specificepithet:angulifer" ; Times: 5
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "genus:Incilius specificepithet:canaliferus" ; Times: 6
+	Query: "genus:Leptophis specificepithet:diplotropis" ; Times: 5
+	Query: "crotaphytus reticulatus" ; Times: 1
+	Query: "genus:Melanochelys specificepithet:trijuga" ; Times: 5
+	Query: "genus:Charina specificepithet:bottae" ; Times: 5
+	Query: "Trimorphodon biscutatus lambda" ; Times: 1
+	Query: "class:Reptilia locality:Nata stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "genus:Phrynops specificepithet:geoffroanus" ; Times: 6
+	Query: "Crotalus horridus stateprovince:&#34;Pennsylvania&#34; year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Kinosternon stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Panama&#34; country:&#34;Panama&#34; AND (NOT KU NOT UF NOT UMMZ NOT USNM ) institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:15731 institutioncode:UMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1284 download events in this period)
+Total number of records downloaded: 2743
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-28 ; Times: 1
+	Date: 2018-03-01 ; Times: 3
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-26 ; Times: 3
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-27 ; Times: 1
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Kinixys vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:berlandieri genus:Gopherus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "sceloporus siniferus" ; Times: 1
+	Query: "podocnemis lewyana" ; Times: 1
+	Query: "chelydra rossignonii" ; Times: 2
+	Query: "Diadophis punctatus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:UMNH" ; Times: 1
+	Query: "Thamnophis sirtalis infernalis" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "Pelomedusa" ; Times: 1
+
+
+End of report.
