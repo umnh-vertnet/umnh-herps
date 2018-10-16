@@ -1,0 +1,225 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 132
+Number of records retrieved in searches: 1597
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 8
+	Country: Mexico ; Times: 25
+	Country: Unknown ; Times: 5
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: United States ; Times: 76
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 4
+	Date: 2018-02-08 ; Times: 8
+	Date: 2018-02-03 ; Times: 1
+	Date: 2018-02-02 ; Times: 3
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-07 ; Times: 5
+	Date: 2018-02-06 ; Times: 8
+	Date: 2018-02-05 ; Times: 6
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-23 ; Times: 4
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-25 ; Times: 10
+	Date: 2018-02-24 ; Times: 12
+	Date: 2018-02-27 ; Times: 5
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-28 ; Times: 7
+	Date: 2018-02-14 ; Times: 3
+	Date: 2018-02-15 ; Times: 9
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-17 ; Times: 3
+	Date: 2018-02-10 ; Times: 4
+	Date: 2018-02-11 ; Times: 4
+	Date: 2018-02-12 ; Times: 5
+	Date: 2018-02-18 ; Times: 19
+	Date: 2018-02-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Chelidae country:&#34;Australia&#34; institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:389 institutioncode:UMNH" ; Times: 1
+	Query: "genus:heloderma (male OR female) hassex:1" ; Times: 2
+	Query: "Emydura krefftii recordedby:Legler institutioncode:UMNH" ; Times: 1
+	Query: "15928" ; Times: 1
+	Query: "specificepithet:albagula genus:Elseya institutioncode:UMNH" ; Times: 1
+	Query: "class:Reptilia county:&#34;forsyth&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "Phyllodactylus tuberculosus sonora" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Panama&#34;" ; Times: 2
+	Query: "shropshirei" ; Times: 2
+	Query: "gopherus flavomarginatus" ; Times: 11
+	Query: "Zion park Crotalus" ; Times: 1
+	Query: "Bolitoglossa biseriata" ; Times: 2
+	Query: "Dermatemys mawii" ; Times: 1
+	Query: "Arizona elegans utah" ; Times: 1
+	Query: "Liotyphlops albirostris" ; Times: 4
+	Query: "family:Chelidae stateprovince:&#34;Queensland&#34; country:&#34;Australia&#34; institutioncode:UMNH" ; Times: 1
+	Query: "Leptodactylus melanonotus sonora" ; Times: 1
+	Query: "specificepithet:cerastes genus:crotalus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Tropidoclonion stateprovince:&#34;Illinois&#34;" ; Times: 3
+	Query: "genus:Diadophis country:&#34;Mexico&#34;" ; Times: 3
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 2
+	Query: "genus:leptotyphlops (male OR female) hassex:1" ; Times: 1
+	Query: "Senticolis triaspis sonora" ; Times: 1
+	Query: "Lithobates onca" ; Times: 4
+	Query: "specificepithet:mutica genus:apalone hassex:1" ; Times: 1
+	Query: "amphibians san luis potosi" ; Times: 2
+	Query: "catalognumber:14723 institutioncode:UMNH" ; Times: 2
+	Query: "Phrynosoma solare sonora" ; Times: 2
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "specificepithet:mavortium genus:Ambystoma stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "catalognumber:17751 institutioncode:UMNH" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 3
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "Terrapene ornata Sonora" ; Times: 1
+	Query: "diadema Schlegel" ; Times: 1
+	Query: "Podocnemis unifilis" ; Times: 1
+	Query: "catalognumber:15169 institutioncode:UMNH" ; Times: 1
+	Query: "Washington county Utah Crotalus" ; Times: 2
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "Trachemys nebulosa Sonora" ; Times: 1
+	Query: "lampropeltis annulata" ; Times: 1
+	Query: "Trachemys yaquia Sonora" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "Crotalus zacatecas" ; Times: 2
+	Query: "UMNH Reptiles and Amphibians Collection country:&#34;Australia&#34; institutioncode:UMNH" ; Times: 1
+	Query: "Terrapene nelsoni Sonora" ; Times: 1
+	Query: "Norops auratus" ; Times: 2
+	Query: "genus:Tantilla year &gt;= 2016 year &lt;= 2018" ; Times: 1
+	Query: "Phyllorhynchus Utah" ; Times: 1
+	Query: "Diadophis punctatus regalis" ; Times: 2
+	Query: "Kinosternon integrum sonora" ; Times: 2
+	Query: "Diadophis regalis regalis" ; Times: 2
+	Query: "Phyllodactylus xanti sonora" ; Times: 1
+	Query: "sibon nebulatus" ; Times: 2
+	Query: "crotaphytus reticulatus" ; Times: 1
+	Query: "Phrynosoma douglassii stateprovince:&#34;Idaho&#34;" ; Times: 2
+	Query: "Pseudemys texana" ; Times: 2
+	Query: "Testudo kleinmanni" ; Times: 1
+	Query: "catalognumber:15167 institutioncode:UMNH" ; Times: 1
+	Query: "UMNH Reptiles and Amphibians Collection stateprovince:&#34;Queensland&#34; country:&#34;Australia&#34; institutioncode:UMNH" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Herrera&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Guna yala&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "genus:drymobius stateprovince:&#34;guerrero&#34;" ; Times: 1
+	Query: "Incilius mazatlanensis sonora" ; Times: 2
+	Query: "Washington county Utah Crotalus lutosus" ; Times: 1
+	Query: "terrapene nelsoni" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima Sonora" ; Times: 1
+	Query: "crotaphytus reticulatus texas" ; Times: 1
+	Query: "Chelonoidis denticulata" ; Times: 2
+	Query: "Incilius alvarius sonora" ; Times: 2
+	Query: "catalognumber:15168 institutioncode:UMNH" ; Times: 2
+	Query: "family:Amphisbaenidae country:&#34;Panama&#34;" ; Times: 2
+	Query: "Kinosternon alamosae sonora" ; Times: 1
+	Query: "catalognumber:2292 institutioncode:UMNH" ; Times: 1
+	Query: "Gastrophryne olivacea sonora" ; Times: 1
+	Query: "Lithobates catesbeianus stateprovince:&#34;California&#34; year &gt;= 1960 year &lt;= 2017" ; Times: 1
+	Query: "genus:Tropidoclonion stateprovince:&#34;Illinois&#34; country:&#34;United States&#34; continent:north america" ; Times: 1
+	Query: "spea intermontana CM" ; Times: 1
+	Query: "Testudines Zacatecas" ; Times: 1
+	Query: "specificepithet:leukops genus:Rheodytes institutioncode:UMNH" ; Times: 1
+	Query: "genus:senticolis hassex:1" ; Times: 1
+	Query: "Diadophis punctatus regalis utah" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1892 download events in this period)
+Total number of records downloaded: 3678
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 38
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 6
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-25 ; Times: 2
+	Date: 2018-02-24 ; Times: 3
+	Date: 2018-02-12 ; Times: 3
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-18 ; Times: 3
+	Date: 2018-02-19 ; Times: 3
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-08 ; Times: 3
+	Date: 2018-02-03 ; Times: 7
+	Date: 2018-02-02 ; Times: 2
+	Date: 2018-02-01 ; Times: 7
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus graciosus graciosus" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "Emydura krefftii recordedby:Legler institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:albagula genus:Elseya institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:sipedon genus:nerodia hassex:1" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "regina alleni" ; Times: 1
+	Query: "Uma inornata" ; Times: 1
+	Query: "Anniella pulchra pulchra" ; Times: 1
+	Query: "taricha granulosa" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 1
+	Query: "ambystoma gracile" ; Times: 1
+	Query: "sternotherus odoratus texas" ; Times: 1
+	Query: "reptile michigan" ; Times: 2
+	Query: "Ambystoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ambystoma jeffersonianum" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "seminatrix pygaea" ; Times: 1
+	Query: "specificepithet:carolina genus:terrapene hassex:1" ; Times: 1
+	Query: "dasypeltis scabra" ; Times: 1
+	Query: "ambystoma texanum" ; Times: 1
+	Query: "Podocnemis unifilis" ; Times: 1
+	Query: "hypsiboas crepitans" ; Times: 2
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "Anaxyrus cognatus" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 1
+	Query: "genus:Atelopus specificepithet:varius" ; Times: 1
+	Query: "family:Chelidae stateprovince:&#34;Queensland&#34; country:&#34;Australia&#34; institutioncode:UMNH" ; Times: 1
+	Query: "Diadophis punctatus regalis" ; Times: 1
+	Query: "notophthalmus viridescens" ; Times: 1
+	Query: "Diadophis regalis regalis" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:cerastes genus:crotalus" ; Times: 1
+	Query: "Phrynosoma douglassii stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "specificepithet:leukops genus:Rheodytes institutioncode:UMNH" ; Times: 1
+	Query: "UMNH Reptiles and Amphibians Collection stateprovince:&#34;Queensland&#34; country:&#34;Australia&#34; institutioncode:UMNH" ; Times: 1
+	Query: "vernalis blanchardi" ; Times: 1
+	Query: "specificepithet:cystignathoides stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Taricha torosa torosa stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "apalone spinifera texas" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Nerodia erythrogaster flavigaster" ; Times: 1
+	Query: "Testudines Zacatecas" ; Times: 1
+	Query: "Emys marmorata" ; Times: 1
+
+
+End of report.
