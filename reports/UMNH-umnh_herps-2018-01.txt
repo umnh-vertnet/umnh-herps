@@ -1,0 +1,208 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 169
+Number of records retrieved in searches: 4897
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 76
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 88
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 4
+	Date: 2018-01-18 ; Times: 3
+	Date: 2018-01-31 ; Times: 4
+	Date: 2018-01-11 ; Times: 2
+	Date: 2018-01-10 ; Times: 4
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-12 ; Times: 1
+	Date: 2018-01-15 ; Times: 3
+	Date: 2018-01-14 ; Times: 2
+	Date: 2018-01-17 ; Times: 40
+	Date: 2018-01-24 ; Times: 33
+	Date: 2018-01-25 ; Times: 4
+	Date: 2018-01-08 ; Times: 2
+	Date: 2018-01-09 ; Times: 16
+	Date: 2018-01-28 ; Times: 1
+	Date: 2018-01-29 ; Times: 3
+	Date: 2018-01-02 ; Times: 3
+	Date: 2018-01-03 ; Times: 2
+	Date: 2018-01-26 ; Times: 3
+	Date: 2018-01-01 ; Times: 1
+	Date: 2018-01-06 ; Times: 10
+	Date: 2018-01-21 ; Times: 7
+	Date: 2018-01-22 ; Times: 4
+	Date: 2018-01-05 ; Times: 11
+	Date: 2018-01-04 ; Times: 2
+	Date: 2018-01-23 ; Times: 2
+	Date: 2018-01-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sistrurus sauk wisconsin" ; Times: 1
+	Query: "Graptemys flavimaculata stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Stenorrhina freminvillei" ; Times: 2
+	Query: "Spilotes pullatus" ; Times: 2
+	Query: "order:Testudines institutioncode:UMNH" ; Times: 7
+	Query: "Kinosternon acutum" ; Times: 2
+	Query: "genus:Claudius" ; Times: 1
+	Query: "Holcosus undulatus" ; Times: 2
+	Query: "Trachemys venusta" ; Times: 2
+	Query: "Trachemys nebulosa" ; Times: 1
+	Query: "Sphaerodactylus glaucus" ; Times: 3
+	Query: "crotalus utah" ; Times: 1
+	Query: "Dermophis mexicanus" ; Times: 1
+	Query: "Drymobius margaritiferus" ; Times: 2
+	Query: "Triprion petasatus" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 2
+	Query: "genus:micrurus stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "graptemys flavimaculata united states Mississippi" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 2
+	Query: "graptemys flavimaculata Mississippi" ; Times: 1
+	Query: "chelydra serpentina stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Engystomops pustulosus" ; Times: 1
+	Query: "gorzugi" ; Times: 1
+	Query: "Apalone mutica stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "pyromelana infralabialis" ; Times: 13
+	Query: "catalognumber:1290" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 2
+	Query: "specificepithet:berlandieri genus:Gopherus country:&#34;Mexico&#34; year &gt;= 1970 year &lt;= 2015" ; Times: 1
+	Query: "Corallus" ; Times: 1
+	Query: "genus:Pseudoboa country:&#34;Panama&#34; AND (NOT MCZ)" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 3
+	Query: "Holcosus festivus" ; Times: 2
+	Query: "Podocnemis unifilis" ; Times: 1
+	Query: "Trachemys scripta united states Mississippi" ; Times: 4
+	Query: "Crotalus durissus" ; Times: 2
+	Query: "mississippi apalone spinifera" ; Times: 4
+	Query: "infralabialis" ; Times: 1
+	Query: "Chelydra rossignonii" ; Times: 2
+	Query: "genus:Charina stateprovince:&#34;Utah&#34; year &gt;= 1980" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Herrera&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 2
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "Staurotypus salvinii" ; Times: 2
+	Query: "apalone mutica united states Mississippi" ; Times: 4
+	Query: "sternotherus carinatus stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "mississippi apalone mutica" ; Times: 1
+	Query: "Graptemys Kentucky" ; Times: 2
+	Query: "Drymarchon melanurus" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; (marmorata)" ; Times: 5
+	Query: "Imantodes cenchoa" ; Times: 2
+	Query: "apalone spinifera stateprovince:&#34;Mississippi&#34;" ; Times: 4
+	Query: "sistrurus catenatus wisconsin" ; Times: 1
+	Query: "specificepithet:blainvillii genus:Phrynosoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Xenodon rabdocephalus" ; Times: 2
+	Query: "Craugastor rugulosus" ; Times: 1
+	Query: "Coniophanes imperialis" ; Times: 2
+	Query: "Claudius angustatus" ; Times: 2
+	Query: "institutioncode:UMNH" ; Times: 3
+	Query: "specificepithet:suspectum genus:Heloderma stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Kinosternon leucostomum" ; Times: 2
+	Query: "oscaecilia" ; Times: 1
+	Query: "Dendropsophus ebraccatus" ; Times: 1
+	Query: "Anaxyrus kelloggi" ; Times: 1
+	Query: "Senticolis triaspis" ; Times: 2
+	Query: "Coniophanes piceivittis" ; Times: 3
+	Query: "genus:Pseudoboa country:&#34;Panama&#34;" ; Times: 1
+	Query: "Rhinoclemmys areolata" ; Times: 2
+	Query: "17892" ; Times: 1
+	Query: "genus:Pseudoboa country:&#34;Panama&#34; institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:nebulosa genus:Trachemys stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Masticophis durango" ; Times: 1
+	Query: "Gymnophthalmus speciosus" ; Times: 2
+	Query: "18139" ; Times: 1
+	Query: "Kinosternon scorpioides" ; Times: 2
+	Query: "specificepithet:angustatus genus:Claudius stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "genus:Masticophis country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "sternotherus carinatus united states Mississippi" ; Times: 1
+	Query: "Conophis lineatus" ; Times: 2
+	Query: "Boa imperator" ; Times: 2
+	Query: "specificepithet:leucostomum genus:kinosternon stateprovince:&#34;Veracruz&#34;" ; Times: 2
+	Query: "specificepithet:platyrhinos genus:heterodon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 2
+	Query: "specificepithet:obsoletus genus:Plestiodon stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; month &lt;= 520" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 2
+	Query: "genus:heterodon platyrhinos stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "chelydra serpentina united states Mississippi" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 2
+	Query: "sistrurus wisconsin" ; Times: 2
+	Query: "genus:Charina stateprovince:&#34;Nevada&#34; year &gt;= 1980" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1398 download events in this period)
+Total number of records downloaded: 715
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Mexico ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-08 ; Times: 2
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-10 ; Times: 2
+	Date: 2018-01-13 ; Times: 2
+	Date: 2018-01-12 ; Times: 3
+	Date: 2018-01-15 ; Times: 4
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-17 ; Times: 3
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-25 ; Times: 6
+	Date: 2018-01-31 ; Times: 7
+	Date: 2018-01-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "trachemys scripta stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "pituophis deppei" ; Times: 2
+	Query: "Apalone mutica stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:nebulosa genus:Trachemys stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "Graptemys flavimaculata stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "atelopus varius" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "stateprovince:mississippi class:reptilia" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "spea intermontana" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "anniella" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; (marmorata)" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "specificepithet:sonoriense genus:kinosternon stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:boa" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "litoria caerulea" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "order:Testudines (road OR vehicle)" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "dasypeltis scabra" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "oscaecilia" ; Times: 1
+	Query: "graptemys flavimaculata Mississippi" ; Times: 1
+	Query: "Atelopus varius" ; Times: 2
+	Query: "crotalus horridus" ; Times: 1
+	Query: "sternotherus carinatus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+
+
+End of report.
