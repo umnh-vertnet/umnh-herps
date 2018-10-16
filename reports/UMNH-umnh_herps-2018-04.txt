@@ -1,0 +1,436 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 277
+Number of records retrieved in searches: 1180
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 258
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 3
+	Date: 2018-04-23 ; Times: 3
+	Date: 2018-04-22 ; Times: 196
+	Date: 2018-04-21 ; Times: 4
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-26 ; Times: 4
+	Date: 2018-04-25 ; Times: 4
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-04 ; Times: 5
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-16 ; Times: 7
+	Date: 2018-04-12 ; Times: 7
+	Date: 2018-04-13 ; Times: 3
+	Date: 2018-04-10 ; Times: 4
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-17 ; Times: 8
+	Date: 2018-04-14 ; Times: 12
+	Date: 2018-04-18 ; Times: 5
+	Date: 2018-04-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:2237 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2408 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1027 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2195 institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:1137 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2196 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:914 institutioncode:UMNH" ; Times: 1
+	Query: "class:Reptilia county:&#34;Harris&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:2879 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:durissus genus:Crotalus country:&#34;mexico&#34;" ; Times: 1
+	Query: "catalognumber:1973 institutioncode:UMNH" ; Times: 1
+	Query: "Batagur" ; Times: 1
+	Query: "catalognumber:1198 institutioncode:UMNH" ; Times: 1
+	Query: "Thamnophis elegans hastissue:1" ; Times: 1
+	Query: "catalognumber:1112 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:907 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1201 institutioncode:UMNH" ; Times: 1
+	Query: "genus:chelodina institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:9165 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:832 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1207 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2106 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1971 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:681 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3249 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:680 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:92 institutioncode:UMNH" ; Times: 1
+	Query: "liotyphlops albirostris" ; Times: 12
+	Query: "catalognumber:2361 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1045 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3849 institutioncode:UMNH" ; Times: 1
+	Query: "Micrurus dissoleucus" ; Times: 1
+	Query: "catalognumber:676 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2357 institutioncode:UMNH" ; Times: 1
+	Query: "Kinosternon angustipons" ; Times: 2
+	Query: "catalognumber:2825 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2203 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Oxybelis sex:male OR female" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "catalognumber:916 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2205 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1151 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2884 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1004 institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:1142 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:920 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:1023 institutioncode:UMNH" ; Times: 1
+	Query: "vntype:specimen genus:Trachemys institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2229 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1993 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1303 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:8023 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:912 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2207 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1262 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:10253 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2833 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1994 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1304 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2858 institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:3117 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1026 institutioncode:UMNH" ; Times: 1
+	Query: "2770 crotalus" ; Times: 1
+	Query: "catalognumber:987 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1264 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:8035 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2881 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3548 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1208 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2206 institutioncode:UMNH" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "catalognumber:1432 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2220 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3321 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1138 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:944 institutioncode:UMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:scripta genus:Trachemys stateprovince:&#34;Texas&#34; institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:6 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2209 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3553 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3751 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1060 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:8034 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:108 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:876 institutioncode:UMNH" ; Times: 1
+	Query: "cyclemys dentata" ; Times: 1
+	Query: "catalognumber:1025 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:terrapin genus:malaclemys stateprovince:&#34;new jersey&#34; preparations:Ethanol" ; Times: 1
+	Query: "catalognumber:1139 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3551 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2226 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1972 institutioncode:UMNH" ; Times: 1
+	Query: "infralabialis" ; Times: 2
+	Query: "catalognumber:831 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2228 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1263 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2022 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1200 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Bogertophis sex:male OR female" ; Times: 1
+	Query: "catalognumber:3378 institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:1977 institutioncode:UMNH" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "catalognumber:3552 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1433 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3342 institutioncode:UMNH" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "catalognumber:691 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1150 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1160 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1046 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:942 institutioncode:UMNH" ; Times: 1
+	Query: "agkistrodon contortrix maryland" ; Times: 1
+	Query: "genus:chelodina stateprovince:&#34;Western Australia&#34; institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1930 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1134 institutioncode:UMNH" ; Times: 1
+	Query: "family:Emydidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "catalognumber:921 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2218 institutioncode:UMNH" ; Times: 1
+	Query: "genus:senticolis sex:male OR female" ; Times: 1
+	Query: "catalognumber:8031 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1992 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Phyllodactylus sex:male OR female" ; Times: 1
+	Query: "catalognumber:2480 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1268 institutioncode:UMNH" ; Times: 1
+	Query: "Liotyphlops albirostris" ; Times: 1
+	Query: "oedipina taylori" ; Times: 1
+	Query: "Lampropeltis triangulum syspila" ; Times: 1
+	Query: "catalognumber:913 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:855 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2017 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2222 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1266 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2219 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1974 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:635 institutioncode:UMNH" ; Times: 1
+	Query: "genus:glyptemys sex:male OR female" ; Times: 1
+	Query: "crotalus concolor" ; Times: 1
+	Query: "catalognumber:2201 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2852 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2224 institutioncode:UMNH" ; Times: 1
+	Query: "anuran" ; Times: 4
+	Query: "catalognumber:1269 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1118 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3752 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3753 institutioncode:UMNH" ; Times: 1
+	Query: "vntype:specimen genus:Chelonoidis nigra basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:scripta genus:Trachemys institutioncode:UMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:scripta genus:Trachemys stateprovince:&#34;New Mexico&#34; institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1261 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1197 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2200 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1157 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3549 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Glyptemys sex:male OR female" ; Times: 1
+	Query: "genus:Tropidoclonion sex:male OR female" ; Times: 1
+	Query: "Vijayachelys silvatica" ; Times: 2
+	Query: "catalognumber:1626 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1153 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1359 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2494 institutioncode:UMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:scripta genus:Trachemys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Lampropeltis pyromelana stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "catalognumber:860 institutioncode:UMNH" ; Times: 1
+	Query: "genus:emydoidea sex:male OR female" ; Times: 1
+	Query: "catalognumber:1995 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1294 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1143 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2868 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3323 institutioncode:UMNH" ; Times: 1
+	Query: "Kinosternon Angustipons" ; Times: 1
+	Query: "Chelonoidis nigra" ; Times: 2
+	Query: "catalognumber:323 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2223 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1270 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3852 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:8165 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1199 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1979 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:93 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2807 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1976 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2882 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1141 institutioncode:UMNH" ; Times: 1
+	Query: "wisconsin necturus" ; Times: 2
+	Query: "genus:heloderma sex:male OR female" ; Times: 2
+	Query: "catalognumber:1133 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1311 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2105 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2230 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:8036 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Tiliqua institutioncode:UMNH" ; Times: 2
+	Query: "family:Iguanidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "catalognumber:1159 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2883 institutioncode:UMNH" ; Times: 1
+	Query: "Staurotypus salvinii" ; Times: 2
+	Query: "catalognumber:915 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2197 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1162 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:94 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2878 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2202 institutioncode:UMNH" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 3
+	Query: "catalognumber:2875 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:919 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2854 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2114 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2204 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1944 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:911 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2360 institutioncode:UMNH" ; Times: 1
+	Query: "Hardella" ; Times: 1
+	Query: "catalognumber:1259 institutioncode:UMNH" ; Times: 1
+	Query: "class:Reptilia county:&#34;Love&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "catalognumber:8041 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1296 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:288 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1989 institutioncode:UMNH" ; Times: 1
+	Query: "Chelonoidis denticulata" ; Times: 1
+	Query: "catalognumber:352 institutioncode:UMNH" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "catalognumber:2199 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1058 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:338 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Leptotyphlops sex:male OR female" ; Times: 1
+	Query: "catalognumber:2859 institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:1051 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2217 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2877 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3550 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:111 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2349 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:962 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2231 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2880 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:3288 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1085 institutioncode:UMNH" ; Times: 1
+	Query: "Cyclemys dentata" ; Times: 1
+	Query: "catalognumber:2221 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:2208 institutioncode:UMNH" ; Times: 1
+	Query: "catalognumber:1271 institutioncode:UMNH" ; Times: 1
+	Query: "Staurotypus Salvinii" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 127 (out of 1359 download events in this period)
+Total number of records downloaded: 8754
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: United States ; Times: 109
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 3
+	Date: 2018-04-23 ; Times: 26
+	Date: 2018-04-22 ; Times: 11
+	Date: 2018-04-20 ; Times: 15
+	Date: 2018-04-27 ; Times: 2
+	Date: 2018-04-26 ; Times: 3
+	Date: 2018-04-25 ; Times: 5
+	Date: 2018-04-24 ; Times: 2
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-03 ; Times: 1
+	Date: 2018-04-02 ; Times: 1
+	Date: 2018-04-05 ; Times: 3
+	Date: 2018-04-04 ; Times: 2
+	Date: 2018-04-09 ; Times: 4
+	Date: 2018-04-16 ; Times: 1
+	Date: 2018-04-12 ; Times: 14
+	Date: 2018-04-13 ; Times: 3
+	Date: 2018-04-10 ; Times: 12
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-17 ; Times: 6
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-19 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:sternotherus sex:male OR female" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "Reptilia Zacatecas" ; Times: 2
+	Query: "Anaxyrus punctatus" ; Times: 1
+	Query: "genus:pituophis sex:male OR female" ; Times: 1
+	Query: "Spea multiplicata" ; Times: 1
+	Query: "genus:Trimorphodon sex:male OR female" ; Times: 1
+	Query: "genus:Crotaphytus sex:Male OR Female" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "genus:Sonora sex:male OR female" ; Times: 2
+	Query: "genus:charina sex:male OR female" ; Times: 1
+	Query: "genus:crotalus sex:male OR female" ; Times: 1
+	Query: "family:Anniellidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 2
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "genus:Salvadora sex:male OR female" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Harris&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "incilius valliceps" ; Times: 2
+	Query: "genus:Pantherophis sex:male OR female" ; Times: 2
+	Query: "genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:tantilla sex:male OR female" ; Times: 2
+	Query: "genus:anniella stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "sibon nebulatus" ; Times: 1
+	Query: "genus:Phrynosoma sex:Male OR Female" ; Times: 1
+	Query: "genus:thamnophis sex:male OR female" ; Times: 1
+	Query: "genus:Callisaurus sex:male OR female" ; Times: 3
+	Query: "genus:Coleonyx sex:male OR female" ; Times: 2
+	Query: "genus:Rhinocheilus sex:male OR female" ; Times: 1
+	Query: "genus:holbrookia sex:male OR female" ; Times: 1
+	Query: "genus:Trachemys sex:male OR female" ; Times: 1
+	Query: "genus:Graptemys sex:male OR female" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "genus:Hypsiglena sex:male OR female" ; Times: 1
+	Query: "genus:Gambelia sex:male OR female" ; Times: 1
+	Query: "family:Viperidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:Apalone sex:male OR female" ; Times: 1
+	Query: "genus:Phyllorhynchus sex:male OR female" ; Times: 2
+	Query: "genus:Sternotherus sex:male OR female" ; Times: 1
+	Query: "genus:Uta sex:male OR female" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "genus:plestiodon sex:male OR female" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:Dipsosaurus sex:male OR female" ; Times: 2
+	Query: "genus:diadophis sex:male OR female" ; Times: 1
+	Query: "genus:Heterodon sex:Male OR Female" ; Times: 1
+	Query: "genus:Elgaria sex:male OR female" ; Times: 1
+	Query: "family:Emydidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "family:Teiidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "genus:Phyllodactylus sex:male OR female" ; Times: 1
+	Query: "genus:lampropeltis sex:male OR female" ; Times: 1
+	Query: "sceloporus malachiticus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "genus:xantusia sex:male OR female" ; Times: 1
+	Query: "genus:Regina sex:male OR female" ; Times: 1
+	Query: "genus:Micrurus sex:male OR female" ; Times: 1
+	Query: "genus:Kinosternon sex:male OR female" ; Times: 1
+	Query: "genus:chrysemys sex:male OR female" ; Times: 2
+	Query: "specificepithet:adamanteus genus:Crotalus" ; Times: 1
+	Query: "genus:Lampropeltis sex:male OR female" ; Times: 1
+	Query: "Gastrophryne carolinensis" ; Times: 2
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "genus:masticophis sex:male OR female" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:Urosaurus sex:male OR female" ; Times: 1
+	Query: "genus:anolis sex:male OR female" ; Times: 1
+	Query: "genus:clemmys sex:male OR female" ; Times: 1
+	Query: "genus:emydoidea sex:male OR female" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "genus:malaclemys sex:male OR female" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "genus:Pseudemys sex:male OR female" ; Times: 2
+	Query: "genus:Chelydra sex:male OR female" ; Times: 1
+	Query: "genus:Crotalus sex:Male OR Female" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides" ; Times: 1
+	Query: "locality:armidale country:&#34;australia&#34;" ; Times: 1
+	Query: "genus:gopherus sex:male OR female" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "specificepithet:guttata genus:clemmys stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "genus:heloderma sex:male OR female" ; Times: 1
+	Query: "genus:terrapene sex:male OR female" ; Times: 1
+	Query: "Gastrophryne olivacea" ; Times: 1
+	Query: "Micrurus dissoleucus" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 1
+	Query: "family:Iguanidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:apalone sex:male OR female" ; Times: 2
+	Query: "genus:Coluber sex:male OR female" ; Times: 1
+	Query: "bothrops atrox" ; Times: 2
+	Query: "genus:Sauromalus sex:Male OR Female" ; Times: 1
+	Query: "genus:Anolis sex:male OR female" ; Times: 1
+	Query: "order:Squamata hastissue:1" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "genus:Thamnophis sex:male OR female" ; Times: 2
+	Query: "Anaxyrus woodhousii" ; Times: 1
+	Query: "genus:Sceloporus sex:male OR female" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "Rhinella marina" ; Times: 2
+	Query: "genus:Coniophanes sex:male OR female" ; Times: 2
+	Query: "genus:callisaurus sex:male OR female" ; Times: 1
+	Query: "genus:drymarchon sex:male OR female" ; Times: 1
+	Query: "Lampropeltis New Mexico" ; Times: 1
+	Query: "genus:agkistrodon sex:male OR female" ; Times: 2
+	Query: "Oxybelis fulgidus" ; Times: 1
+
+
+End of report.
