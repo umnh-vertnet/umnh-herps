@@ -1,0 +1,179 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 324
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 54
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 3
+	Country: Panama ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-12 ; Times: 3
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-08 ; Times: 3
+	Date: 2018-07-09 ; Times: 4
+	Date: 2018-07-15 ; Times: 21
+	Date: 2018-07-14 ; Times: 3
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-05 ; Times: 3
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-01 ; Times: 2
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-03 ; Times: 1
+	Date: 2018-07-31 ; Times: 9
+	Date: 2018-07-29 ; Times: 3
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-16 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "14651" ; Times: 1
+	Query: "platysternon megacephalum" ; Times: 1
+	Query: "catalognumber:9359" ; Times: 1
+	Query: "15899" ; Times: 1
+	Query: "UMNH 1624" ; Times: 1
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "&#34;Harris County&#34;" ; Times: 2
+	Query: "Spea multiplicata" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34; institutioncode:UMNH" ; Times: 2
+	Query: "genus:Mabuya country:&#34;Panama&#34;" ; Times: 1
+	Query: "institutioncode:UMNH" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34;" ; Times: 5
+	Query: "farancia Liberty county" ; Times: 1
+	Query: "class:Reptilia locality:El Valle stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "class:Reptilia locality:Penonome stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34; AND (NOT KU)" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Herrera&#34; country:&#34;Panama&#34; institutioncode:UMNH" ; Times: 2
+	Query: "Cuora trifasciata" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 3
+	Query: "crotalus concolor" ; Times: 2
+	Query: "Cyclemys" ; Times: 1
+	Query: "class:Reptilia locality:Penonome stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "18420" ; Times: 1
+	Query: "18318" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "Podocnemis unifilis" ; Times: 3
+	Query: "specificepithet:solare genus:Phrynosoma stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 5
+	Query: "class:Amphibia stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34; institutioncode:UMNH" ; Times: 1
+	Query: "spea intermontana cm" ; Times: 1
+	Query: "specificepithet:pyromelana genus:lampropeltis stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Tio candido" ; Times: 3
+	Query: "genus:Diadophis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Oscaecilia" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:alvarius genus:Incilius stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Nata stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guna Yala&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:alvarius stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:Mipartitus genus:Micrurus country:&#34;Panama&#34;" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Herrera&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34; institutioncode:UMNH" ; Times: 3
+	Query: "sacalia bealei" ; Times: 1
+	Query: "Thamnophis valida" ; Times: 1
+	Query: "specificepithet:scutulatus county:&#34;brewster&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:reticulatus genus:Crotaphytus" ; Times: 2
+	Query: "spea intermontana CM" ; Times: 1
+	Query: "Dendropsophus phlebodes" ; Times: 2
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 977 download events in this period)
+Total number of records downloaded: 1175
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: France ; Times: 1
+	Country: United States ; Times: 18
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 14
+	Country: Argentina ; Times: 1
+	Country: Bulgaria ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 3
+	Date: 2018-07-12 ; Times: 1
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-17 ; Times: 3
+	Date: 2018-07-09 ; Times: 2
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-18 ; Times: 2
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-31 ; Times: 19
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-20 ; Times: 4
+	Date: 2018-07-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "platysternon megacephalum" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "rana pretiosa" ; Times: 1
+	Query: "specificepithet:coniferus genus:Incilius" ; Times: 2
+	Query: "atelopus varius" ; Times: 1
+	Query: "Hypsiboas crepitans" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "oxyrhopus" ; Times: 1
+	Query: "specificepithet:haematiticus genus:Rhaebo" ; Times: 1
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "Leptodactylus pentadactylus" ; Times: 1
+	Query: "Cuora trifasciata" ; Times: 1
+	Query: "specificepithet:lacertina genus:Siren" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Scinax boulengeri" ; Times: 1
+	Query: "Hypsiboas boans" ; Times: 1
+	Query: "Crotalus mitchellii" ; Times: 1
+	Query: "kinixys belliana" ; Times: 1
+	Query: "genus:Diadophis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "kinosternon hirtipes" ; Times: 1
+	Query: "Leptodactylus bolivianus" ; Times: 1
+	Query: "Lithobates warszewitschii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "specificepithet:marina genus:Rhinella" ; Times: 1
+	Query: "specificepithet:margaritifera genus:Rhinella" ; Times: 1
+	Query: "sacalia bealei" ; Times: 1
+	Query: "vipera berus" ; Times: 2
+	Query: "Thamnophis valida" ; Times: 2
+	Query: "Dendropsophus ebraccatus" ; Times: 1
+	Query: "specificepithet:intermedia genus:Siren" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "specificepithet:reticulatus genus:Crotaphytus" ; Times: 1
+	Query: "Hypsiboas rosenbergi" ; Times: 1
+	Query: "Scinax staufferi" ; Times: 1
+	Query: "Craugastor fitzingeri" ; Times: 1
+	Query: "Dendropsophus phlebodes" ; Times: 1
+	Query: "Lithobates palmipes" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "macrochelys" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 1
+
+
+End of report.
