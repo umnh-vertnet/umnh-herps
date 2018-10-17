@@ -1,0 +1,188 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 814
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 40
+	Country: Sweden ; Times: 10
+	Country: Germany ; Times: 1
+	Country: Nicaragua ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 9
+	Date: 2018-09-05 ; Times: 3
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-26 ; Times: 2
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-06 ; Times: 7
+	Date: 2018-09-21 ; Times: 1
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-08 ; Times: 2
+	Date: 2018-09-09 ; Times: 2
+	Date: 2018-09-30 ; Times: 6
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-17 ; Times: 5
+	Date: 2018-09-16 ; Times: 2
+	Date: 2018-09-19 ; Times: 6
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:amphibia county:&#34;iron&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Maverick&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Terrapene yucatana" ; Times: 3
+	Query: "Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "catalognumber:22738 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Archer&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus nuntius" ; Times: 2
+	Query: "phrynosoma sp" ; Times: 1
+	Query: "genus:anniella county:&#34;riverside&#34;" ; Times: 2
+	Query: "pseudemys gorzugi" ; Times: 7
+	Query: "Crotalus county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; (marmorata)" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Coconino&#34;" ; Times: 1
+	Query: "genus:Trachemys country:&#34;Nicaragua&#34;" ; Times: 6
+	Query: "Lampropeltis triangulum annulata" ; Times: 1
+	Query: "Crotalus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "temminckii indiana" ; Times: 2
+	Query: "bolivia reptiles" ; Times: 1
+	Query: "gbifdatasetid:3ca53690-d42a-4b49-9f7d-e247d8eee7a5" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "catalognumber:18754 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:Oreganus genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "bothrops belize" ; Times: 1
+	Query: "Crotalus county:&#34;Archer&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "glyptemys New York" ; Times: 1
+	Query: "institutioncode:UMNH" ; Times: 1
+	Query: "Sternotherus carinatus stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "specificepithet:gilberti class:reptilia county:&#34;el dorado&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "amyda cartilaginea" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "terrapene carolina New York" ; Times: 1
+	Query: "Alvarius alamos" ; Times: 1
+	Query: "specificepithet:gilberti genus:eumeces stateprovince:&#34;California&#34; year &gt;= 1901 year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus mappable:1 stateprovince:Arizona" ; Times: 4
+	Query: "Crotalus zacatecas" ; Times: 3
+	Query: "specificepithet:gilberti genus:eumeces stateprovince:&#34;California&#34; year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:sonoriense genus:Kinosternon country:&#34;Mexico&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 846 download events in this period)
+Total number of records downloaded: 3395
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Mexico ; Times: 27
+	Country: Indonesia ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-17 ; Times: 7
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-27 ; Times: 2
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-12 ; Times: 2
+	Date: 2018-09-06 ; Times: 5
+	Date: 2018-09-21 ; Times: 2
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-19 ; Times: 12
+	Date: 2018-09-18 ; Times: 25
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-28 ; Times: 1
+	Date: 2018-09-04 ; Times: 5
+	Date: 2018-09-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus magister" ; Times: 1
+	Query: "amphibian Malaysia" ; Times: 1
+	Query: "specificepithet:dorsalis genus:plethodon" ; Times: 1
+	Query: "Terrapene yucatana" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 2
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "siren intermedia" ; Times: 2
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 2
+	Query: "sistrurus miliarius louisiana" ; Times: 1
+	Query: "Scinax staufferi" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 1
+	Query: "phrynosoma sp" ; Times: 1
+	Query: "Leptodactylus melanonotus" ; Times: 1
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "Pituophis catenifer sayi" ; Times: 1
+	Query: "pseudemys gorzugi" ; Times: 1
+	Query: "Ninia sebae sebae" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Holcosus undulatus" ; Times: 1
+	Query: "Conophis lineatus" ; Times: 2
+	Query: "Phrynosoma hernandesi" ; Times: 1
+	Query: "microscaphus" ; Times: 1
+	Query: "Lampropeltis triangulum annulata" ; Times: 1
+	Query: "Uma notata" ; Times: 1
+	Query: "Plestiodon skiltonianus" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "terrapene carolina carolina" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "bothrops atrox" ; Times: 1
+	Query: "sceloporus tristichus" ; Times: 1
+	Query: "Phrynosoma douglassii" ; Times: 1
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "Drymobius margaritiferus margaritiferus" ; Times: 1
+	Query: "Xenodon rabdocephalus" ; Times: 1
+	Query: "eleutherodactylus nitidus" ; Times: 1
+	Query: "eleutherodactylus cystignathoides" ; Times: 1
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "Norops sericeus" ; Times: 1
+	Query: "Ameiva undulata" ; Times: 2
+	Query: "Mabuya mabouya" ; Times: 1
+	Query: "Uta stansburiana" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 1
+	Query: "Coniophanes imperialis imperialis" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 2
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "Senticolis triaspis" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "Drymarchon melanurus melanurus" ; Times: 1
+	Query: "Engystomops pustulosus" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 2
+	Query: "glyptemys insculpta" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "specificepithet:sonoriense genus:Kinosternon country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.
