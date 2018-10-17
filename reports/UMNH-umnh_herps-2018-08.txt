@@ -1,0 +1,233 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 714
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 74
+	Country: Unknown ; Times: 3
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-31 ; Times: 3
+	Date: 2018-08-18 ; Times: 3
+	Date: 2018-08-19 ; Times: 2
+	Date: 2018-08-16 ; Times: 8
+	Date: 2018-08-09 ; Times: 1
+	Date: 2018-08-14 ; Times: 9
+	Date: 2018-08-15 ; Times: 3
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-10 ; Times: 2
+	Date: 2018-08-08 ; Times: 3
+	Date: 2018-08-03 ; Times: 3
+	Date: 2018-08-17 ; Times: 3
+	Date: 2018-08-06 ; Times: 7
+	Date: 2018-08-27 ; Times: 2
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-24 ; Times: 6
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-22 ; Times: 3
+	Date: 2018-08-21 ; Times: 3
+	Date: 2018-08-20 ; Times: 7
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-11 ; Times: 3
+	Date: 2018-08-01 ; Times: 2
+	Date: 2018-08-29 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "apalone calvata" ; Times: 1
+	Query: "Crotalus concolor" ; Times: 7
+	Query: "specificepithet:nigrocinctus genus:Micrurus stateprovince:&#34;Panama&#34; country:&#34;Panama&#34; AND (NOT FMNH) institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:haematiticus country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Panama&#34;" ; Times: 3
+	Query: "specificepithet:suspectum genus:Heloderma sex:male OR female" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:subocularis genus:Bogertophis OR Elaphe sex:male OR female" ; Times: 1
+	Query: "Ctenosaura hemilopha" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT FMNH)" ; Times: 1
+	Query: "genus:Emys OR Actinemys sex:male OR female" ; Times: 1
+	Query: "specificepithet:sexlineatus genus:Cnemidophorus sex:male OR female" ; Times: 1
+	Query: "specificepithet:sipedon genus:Nerodia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Almirante stateprovince:&#34;Bocas del Toro&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "17984" ; Times: 1
+	Query: "class:reptilia county:&#34;lake&#34; stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "chrysemys mississippi" ; Times: 3
+	Query: "class:Reptilia locality:El Valle stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "Phrynops geoffroanus" ; Times: 3
+	Query: "Trachemys ornata nayarit" ; Times: 2
+	Query: "class:Reptilia locality:Penonome stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "Stock class:reptilia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Testudo graeca" ; Times: 1
+	Query: "class:reptilia locality:zion county:&#34;lake&#34; stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "genus:Xenodon stateprovince:&#34;Panama&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Liotyphlops" ; Times: 1
+	Query: "specificepithet:viridescens genus:Notophthalmus stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:marmorata genus:Emys sex:male OR female" ; Times: 1
+	Query: "drymarchon melanurus" ; Times: 1
+	Query: "UMNH-4755" ; Times: 1
+	Query: "Manolepis" ; Times: 1
+	Query: "class:Amphibia country:&#34;Nicaragua&#34; institutioncode:UMNH" ; Times: 1
+	Query: "genus:Glyptemys sex:male OR female" ; Times: 1
+	Query: "specificepithet:rabdocephalus genus:Xenodon country:&#34;Panama&#34;" ; Times: 1
+	Query: "Trachemys ornata" ; Times: 3
+	Query: "15862" ; Times: 1
+	Query: "13171" ; Times: 1
+	Query: "genus:Xenodon country:&#34;Panama&#34;" ; Times: 1
+	Query: "Agkistrodon contortrix 100" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis year &gt;= 2000 year &lt;= 2018" ; Times: 2
+	Query: "class:reptilia stateprovince:&#34;California&#34; year &gt;= 2018" ; Times: 2
+	Query: "Dermatemys mawii" ; Times: 2
+	Query: "Coleonyx mitratus" ; Times: 2
+	Query: "Sternotherus carinatus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "thamnophis sirtalis idaho" ; Times: 1
+	Query: "specificepithet:nigrocinctus genus:Micrurus stateprovince:&#34;Panama&#34; country:&#34;Panama&#34; AND (NOT FMNH)" ; Times: 2
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:bottae genus:Charina year &gt;= 2005 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:shropshirei genus:Pseustes" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 4
+	Query: "specificepithet:alvarius year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Pseudoboa country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Coahuila&#34;" ; Times: 1
+	Query: "genus:Actinemys OR Emys sex:male OR female" ; Times: 2
+	Query: "genus:Heloderma sex:male OR female" ; Times: 1
+	Query: "specificepithet:coccifer country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;Kentucky&#34;" ; Times: 2
+	Query: "Trachemys ornata sinaloa" ; Times: 1
+	Query: "genus:Xenodon stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34; institutioncode:UMNH" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 88 (out of 1416 download events in this period)
+Total number of records downloaded: 6609
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 3
+	Country: Indonesia ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Spain ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 3
+	Date: 2018-08-31 ; Times: 2
+	Date: 2018-08-19 ; Times: 11
+	Date: 2018-08-16 ; Times: 3
+	Date: 2018-08-09 ; Times: 10
+	Date: 2018-08-15 ; Times: 3
+	Date: 2018-08-10 ; Times: 8
+	Date: 2018-08-08 ; Times: 5
+	Date: 2018-08-03 ; Times: 2
+	Date: 2018-08-17 ; Times: 2
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-25 ; Times: 4
+	Date: 2018-08-24 ; Times: 6
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-22 ; Times: 2
+	Date: 2018-08-21 ; Times: 5
+	Date: 2018-08-20 ; Times: 4
+	Date: 2018-08-05 ; Times: 3
+	Date: 2018-08-07 ; Times: 4
+	Date: 2018-08-06 ; Times: 2
+	Date: 2018-08-01 ; Times: 3
+	Date: 2018-08-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "class:reptilia county:&#34;wake&#34; stateprovince:&#34;north carolina&#34; year &gt;= 1940 year &lt;= 2018" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Crotalus mitchellii" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "hELODERMA" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Bothrops atrox" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "genus:Sonora sex:male OR female" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "Ctenosaura hemilopha" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 1
+	Query: "genus:Emydoidea OR Emys sex:male OR female" ; Times: 1
+	Query: "Reptilia Jalisco" ; Times: 1
+	Query: "specificepithet:biseriata genus:Bolitoglossa" ; Times: 1
+	Query: "genus:Gopherus sex:male OR female" ; Times: 1
+	Query: "specificepithet:(lemurinus OR bicaorum OR utilensis) genus:(Anolis OR Norops) year&gt;1900 year&lt;2018" ; Times: 1
+	Query: "genus:Cnemidophorus OR Aspidoscelis sex:male OR female" ; Times: 1
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "genus:Sauromalus sex:male OR female" ; Times: 2
+	Query: "class:reptilia stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "tropidoclonion" ; Times: 1
+	Query: "genus:Apalone OR Trionyx sex:male OR female" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "alvarius" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Basiliscus vittatus" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "specificepithet:ebraccatus genus:Dendropsophus" ; Times: 1
+	Query: "Anaxyrus compactilis" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "gambelia" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Sceloporus variabilis variabilis" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "genus:Lichanura OR Charina sex:male OR female" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "crotalus" ; Times: 2
+	Query: "oaxaca and amphibia" ; Times: 1
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "Sceloporus torquatus torquatus" ; Times: 1
+	Query: "specificepithet:regilla" ; Times: 1
+	Query: "Incilius marmoreus" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "specificepithet:suspectum genus:Heloderma sex:male OR female" ; Times: 1
+	Query: "class:reptilia county:&#34;wake&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Agalychnis callidryas" ; Times: 2
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "Agalychnis callidryas year &gt;= 1930 year &lt;= 1999" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "Hyla arenicolor" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "genus:Eumeces OR Plestiodon sex:male OR female" ; Times: 1
+	Query: "Plestiodon tetragrammus tetragrammus" ; Times: 1
+	Query: "Dendropsophus ebraccatus" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "genus:Liotyphlops" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 1
+	Query: "genus:Coluber OR Masticophis sex:male OR female" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "genus:Actinemys OR Emys sex:male OR female" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 2
+	Query: "crotalinae" ; Times: 1
+	Query: "genus:Pantherophis OR Elaphe sex:male OR female" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+
+
+End of report.
