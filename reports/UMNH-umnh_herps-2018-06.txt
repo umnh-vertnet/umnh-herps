@@ -1,0 +1,234 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 421
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 20
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 40
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Nicaragua ; Times: 15
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-09 ; Times: 3
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-05 ; Times: 2
+	Date: 2018-06-19 ; Times: 4
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-11 ; Times: 6
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-28 ; Times: 2
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-17 ; Times: 11
+	Date: 2018-06-25 ; Times: 3
+	Date: 2018-06-24 ; Times: 2
+	Date: 2018-06-13 ; Times: 5
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-18 ; Times: 15
+	Date: 2018-06-27 ; Times: 7
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-15 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:phrynosoma county:&#34;kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:freminvillei genus:Stenorrhina country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Terrapene yucatana" ; Times: 2
+	Query: "specificepithet:coniferus genus:Incilius country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "genus:cnemidophorus stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "specificepithet:mitratus genus:Coleonyx country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "Cerastes Utah" ; Times: 1
+	Query: "specificepithet:mentovarius genus:Masticophis country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Kinosternon acutum" ; Times: 1
+	Query: "virginia valeriae county:&#34;Elk&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "gymnophthalmus speciosus mexico" ; Times: 1
+	Query: "pseudemys gorzugi" ; Times: 1
+	Query: "UTA 21658" ; Times: 2
+	Query: "Apalone mutica Mississippi" ; Times: 2
+	Query: "UTA 446" ; Times: 2
+	Query: "Terrapene carolina yucatana" ; Times: 1
+	Query: "genus:sceloporus county:&#34;Sanpete&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;Inyo&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "specificepithet:aeneus genus:Oxybelis country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Leptodeira nigrofasciata" ; Times: 5
+	Query: "genus:sceloporus county:&#34;Sevier&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:pulcherrima genus:Rhinoclemmys country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "UTA A 21622" ; Times: 1
+	Query: "specificepithet:hammondii genus:Thamnophis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:nigrofasciata genus:Leptodeira country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "order:urodela continent:North America year &gt;= 1918 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:undulata genus:Ameiva country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "phrynosoma platyrhinos locality:spring valley" ; Times: 1
+	Query: "specificepithet:vittatus genus:Basiliscus country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:marina genus:Rhinella country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:lineatus genus:Conophis country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:speciosus genus:Gymnophthalmus country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "UTA A 21604" ; Times: 1
+	Query: "genus:crotalus county:&#34;Inyo&#34;" ; Times: 1
+	Query: "specificepithet:flavitorques genus:Enulius country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "glyptemys muhlenbergii" ; Times: 1
+	Query: "Chelydra rossignonii" ; Times: 1
+	Query: "platemys platycephala" ; Times: 2
+	Query: "family:Chamaeleonidae institutioncode:UMNH" ; Times: 1
+	Query: "16262" ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 1
+	Query: "anaxyrus boreas halophilus" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "Trachemys venusta" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "micrurus dissoleucus" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "specificepithet:funerea genus:Rhinoclemmys country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "UTA 21622" ; Times: 1
+	Query: "diadophis punctatus regalis" ; Times: 1
+	Query: "Apalone calvata Mississippi" ; Times: 1
+	Query: "family:Testudinidae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 2
+	Query: "Sternotherus carinatus Mississippi" ; Times: 2
+	Query: "order:urodela continent:Asia year &gt;= 1918 year &lt;= 2018" ; Times: 1
+	Query: "UTA 21604" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "specificepithet:mitchellii genus:crotalus stateprovince:&#34;california&#34; country:&#34;united states&#34;" ; Times: 2
+	Query: "family:Trionychidae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:haematiticus genus:Rhaebo country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "family:Kinosternidae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 2
+	Query: "UTA A 21658" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 97 (out of 1169 download events in this period)
+Total number of records downloaded: 4424
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 47
+	Country: United States ; Times: 34
+	Country: Colombia ; Times: 2
+	Country: Puerto Rico ; Times: 1
+	Country: Spain ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 3
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-09 ; Times: 2
+	Date: 2018-06-07 ; Times: 8
+	Date: 2018-06-06 ; Times: 13
+	Date: 2018-06-05 ; Times: 7
+	Date: 2018-06-04 ; Times: 6
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-25 ; Times: 6
+	Date: 2018-06-03 ; Times: 5
+	Date: 2018-06-27 ; Times: 7
+	Date: 2018-06-22 ; Times: 3
+	Date: 2018-06-18 ; Times: 21
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-23 ; Times: 3
+	Date: 2018-06-02 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "pituophis deppei" ; Times: 5
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "Terrapene yucatana" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+	Query: "Taricha granulosa granulosa" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "Taricha rivularis" ; Times: 1
+	Query: "class:Reptilia county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "taricha granulosa" ; Times: 3
+	Query: "Siren lacertina" ; Times: 1
+	Query: "anaxyrus boreas halophilus" ; Times: 1
+	Query: "Plestiodon septentrionalis" ; Times: 1
+	Query: "pseudemys gorzugi" ; Times: 1
+	Query: "Triturus cristatus" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Terrapene carolina yucatana" ; Times: 1
+	Query: "Peaks of Otter" ; Times: 1
+	Query: "plestiodon tetragrammus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Campeche&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "class:Amphibia county:&#34;Hidalgo&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "family:Teiidae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Taricha torosa" ; Times: 1
+	Query: "genus:sceloporus county:&#34;Sevier&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Siren intermedia" ; Times: 1
+	Query: "pseudemys texana" ; Times: 1
+	Query: "Plestiodon fasciatus" ; Times: 1
+	Query: "specificepithet:lineatum genus:Tropidoclonion" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Kinosternon acutum" ; Times: 1
+	Query: "Rhinoclemmys areolata" ; Times: 1
+	Query: "plestiodon obsoletus" ; Times: 1
+	Query: "pseudemys concinna" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "family:Cheloniidae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "class:Reptilia county:&#34;Brooks&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lepidochelys kempii" ; Times: 1
+	Query: "genus:Coniophanes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Kinosternon creaseri" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 1
+	Query: "Kinosternon leucostomum" ; Times: 1
+	Query: "family:Colubridae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Trachemys venusta" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "valliceps" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 2
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Claudius angustatus" ; Times: 1
+	Query: "chihuahua reptilia" ; Times: 1
+	Query: "plestiodon anthracinus" ; Times: 1
+	Query: "Kinosternon scorpioides" ; Times: 1
+	Query: "family:Testudinidae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Sternotherus carinatus Mississippi" ; Times: 2
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "Chelydra rossignonii" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 3
+	Query: "family:Trionychidae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 2
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "family:Kinosternidae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "crotalus adamanteus" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "Cochranella" ; Times: 2
+
+
+End of report.
