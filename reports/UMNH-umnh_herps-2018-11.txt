@@ -1,0 +1,180 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 1149
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 15
+	Country: United States ; Times: 42
+	Country: Guatemala ; Times: 1
+	Country: Vietnam ; Times: 9
+	Country: Colombia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 5
+	Date: 2018-11-08 ; Times: 2
+	Date: 2018-11-07 ; Times: 2
+	Date: 2018-11-06 ; Times: 7
+	Date: 2018-11-02 ; Times: 2
+	Date: 2018-11-01 ; Times: 8
+	Date: 2018-11-25 ; Times: 1
+	Date: 2018-11-27 ; Times: 8
+	Date: 2018-11-21 ; Times: 1
+	Date: 2018-11-20 ; Times: 1
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-22 ; Times: 8
+	Date: 2018-11-29 ; Times: 7
+	Date: 2018-11-28 ; Times: 2
+	Date: 2018-11-18 ; Times: 2
+	Date: 2018-11-19 ; Times: 2
+	Date: 2018-11-10 ; Times: 1
+	Date: 2018-11-11 ; Times: 2
+	Date: 2018-11-12 ; Times: 1
+	Date: 2018-11-13 ; Times: 2
+	Date: 2018-11-14 ; Times: 9
+	Date: 2018-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lampropeltis syspila" ; Times: 1
+	Query: "arkansas triangulum" ; Times: 2
+	Query: "specificepithet:scripta genus:trachemys country:&#34;nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:hammondii genus:Spea stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Coniophanes piceivittis" ; Times: 1
+	Query: "Chelodina oblonga" ; Times: 6
+	Query: "specificepithet:mentovarius genus:Masticophis stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ctenosaura sp." ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "Lithobates onca" ; Times: 4
+	Query: "genus:Sauromalus county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "specificepithet:vittatus genus:Basiliscus stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "genus:Tantilla country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:coahuila genus:Terrapene" ; Times: 1
+	Query: "specificepithet:pseudogeographica genus:graptemys stateprovince:&#34;missouri&#34;" ; Times: 1
+	Query: "specificepithet:onca genus:Lithobates" ; Times: 2
+	Query: "specificepithet:vernalis genus:Opheodrys stateprovince:&#34;South Dakota&#34;" ; Times: 1
+	Query: "specificepithet:pipiens genus:lithobates county:&#34;gunnison&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "incilius suchitepequez" ; Times: 1
+	Query: "Terrapene coahuila" ; Times: 3
+	Query: "coniophanes piceivittis" ; Times: 2
+	Query: "Scinax boulengeri" ; Times: 1
+	Query: "genus:Bothrops country:&#34;Belize&#34;" ; Times: 1
+	Query: "specificepithet:pipiens genus:lithobates county:&#34;mesa&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "sibon nebulatus" ; Times: 2
+	Query: "specificepithet:caretta genus:caretta country:&#34;mexico&#34; continent:america" ; Times: 1
+	Query: "lithobates pipiens county:&#34;Gunnison&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Rhinoclemmys rubida rubida" ; Times: 1
+	Query: "Platysternon" ; Times: 2
+	Query: "masticophis schotti" ; Times: 1
+	Query: "specificepithet:minor genus:Sternotherus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:pipiens genus:lithobates county:&#34;Gunnison&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Graptemys barbouri" ; Times: 1
+	Query: "Chelonoidis carbonaria" ; Times: 2
+	Query: "Trachemys Nayarit" ; Times: 1
+	Query: "Macrochelys stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "Chelodina oblonga haslifestage:1" ; Times: 2
+	Query: "Platysternon megacephalum" ; Times: 7
+	Query: "Heloderma suspectum" ; Times: 2
+	Query: "specificepithet:kaouthia genus:naja" ; Times: 2
+	Query: "genus:crotalus county:&#34;coconino&#34;" ; Times: 1
+	Query: "specificepithet:rivularis stateprovince:California" ; Times: 1
+	Query: "genus:Agkistrodon piscivorus Arkansas" ; Times: 1
+	Query: "Acrochordus javanicus" ; Times: 1
+	Query: "specificepithet:elegans county:&#34;San Miguel&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "locality:chesapeake stateprovince:&#34;utah&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1719 download events in this period)
+Total number of records downloaded: 3063
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Bangladesh ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: France ; Times: 1
+	Country: United States ; Times: 27
+	Country: Colombia ; Times: 1
+	Country: South Korea ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-09 ; Times: 6
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 3
+	Date: 2018-11-06 ; Times: 1
+	Date: 2018-11-05 ; Times: 5
+	Date: 2018-11-04 ; Times: 1
+	Date: 2018-11-02 ; Times: 2
+	Date: 2018-11-01 ; Times: 3
+	Date: 2018-11-27 ; Times: 3
+	Date: 2018-11-26 ; Times: 1
+	Date: 2018-11-21 ; Times: 2
+	Date: 2018-11-20 ; Times: 1
+	Date: 2018-11-29 ; Times: 3
+	Date: 2018-11-28 ; Times: 1
+	Date: 2018-11-18 ; Times: 1
+	Date: 2018-11-19 ; Times: 2
+	Date: 2018-11-11 ; Times: 1
+	Date: 2018-11-12 ; Times: 6
+	Date: 2018-11-14 ; Times: 5
+	Date: 2018-11-15 ; Times: 1
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rivularis genus:Taricha year &gt;= 1950 year &lt;= 2018" ; Times: 1
+	Query: "genus:Crocodylus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus year &gt;= 1950 year &lt;= 2018" ; Times: 1
+	Query: "Spilotes pullatus" ; Times: 1
+	Query: "Lithobates" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "pythonidae" ; Times: 1
+	Query: "specificepithet:pipiens genus:lithobates county:&#34;mesa&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Iguana iguana" ; Times: 2
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "Amphibia vntype:specimen country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:onca genus:Lithobates" ; Times: 2
+	Query: "Holbrookia propinqua" ; Times: 1
+	Query: "family:Viperidae" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 2
+	Query: "Boa constrictor" ; Times: 1
+	Query: "lithobates pipiens county:&#34;Gunnison&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Xenodon rabdocephalus" ; Times: 2
+	Query: "Dasypeltis" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "uma inornata" ; Times: 1
+	Query: "panama boa constrictor" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "specificepithet:lugubris genus:aneides stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:caretta genus:caretta country:&#34;mexico&#34; continent:america" ; Times: 1
+	Query: "order:squamata country:&#34;brazil&#34;" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "specificepithet:agassizii genus:gopherus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Lithobates pipiens" ; Times: 1
+	Query: "genus:Opheodrys" ; Times: 2
+	Query: "family:Plethodontidae" ; Times: 1
+	Query: "specificepithet:temminckii family:Chelydridae" ; Times: 1
+	Query: "phyllorhynchus decurtatus" ; Times: 1
+	Query: "siren texas" ; Times: 1
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 1
+	Query: "order:Squamata locality:Santa Rita county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 1
+	Query: "specificepithet:flavescens genus:Kinosternon family:Kinosternidae order:Testudines" ; Times: 1
+	Query: "ninia sebae" ; Times: 2
+	Query: "specificepithet:attenuatus genus:Batrachoseps" ; Times: 1
+
+
+End of report.
