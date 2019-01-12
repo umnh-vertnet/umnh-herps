@@ -1,0 +1,144 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 293
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 13
+	Country: Austria ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 37
+	Country: Sweden ; Times: 1
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Nicaragua ; Times: 8
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 3
+	Date: 2018-12-07 ; Times: 3
+	Date: 2018-12-15 ; Times: 7
+	Date: 2018-12-14 ; Times: 2
+	Date: 2018-12-17 ; Times: 7
+	Date: 2018-12-16 ; Times: 2
+	Date: 2018-12-11 ; Times: 4
+	Date: 2018-12-10 ; Times: 5
+	Date: 2018-12-13 ; Times: 2
+	Date: 2018-12-12 ; Times: 8
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-22 ; Times: 5
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-27 ; Times: 4
+	Date: 2018-12-28 ; Times: 1
+	Date: 2018-12-29 ; Times: 1
+	Date: 2018-12-04 ; Times: 3
+	Date: 2018-12-05 ; Times: 4
+	Date: 2018-12-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gorzugi" ; Times: 1
+	Query: "ebraccatus" ; Times: 2
+	Query: "Rhinoclemmys pulcherrima colima" ; Times: 1
+	Query: "Coniophanes piceivittis El Salvador" ; Times: 3
+	Query: "Manolepis" ; Times: 1
+	Query: "Incilius alvarius" ; Times: 2
+	Query: "Reptilia Mississippi forrest" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 1
+	Query: "Mesoclemmys nasutus" ; Times: 1
+	Query: "Chelonoidis carbonaria" ; Times: 1
+	Query: "melanochelys trijuga" ; Times: 1
+	Query: "UTA 21911" ; Times: 2
+	Query: "Leptodeira nigrofasciata Nicaragua" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ontario&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:tesselatus genus:Cnemidophorus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:yavapaiensis genus:lithobates stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Leptodeira nigrofasciata" ; Times: 2
+	Query: "Gopherus flavomarginatus" ; Times: 1
+	Query: "lithobates onca" ; Times: 1
+	Query: "Crotalus oreganus lutosus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:piceivittis country:&#34;Nicaragua&#34;" ; Times: 8
+	Query: "stateprovince:&#34;Los Santos&#34; year &gt;= 1961 year &lt;= 1963" ; Times: 1
+	Query: "Trachemys ornata Nayarit" ; Times: 3
+	Query: "Trachemys ornata" ; Times: 1
+	Query: "McKittrick Canyon class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "testudo hermanni" ; Times: 1
+	Query: "Pangshura" ; Times: 1
+	Query: "siebenrockiella crassicollis" ; Times: 1
+	Query: "Coniophanes piceivittis Nicaragua" ; Times: 2
+	Query: "Platysternon megacephalum" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Archer&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Deirochelys louisiana" ; Times: 12
+	Query: "devils river class:Reptilia county:&#34;val verde&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "anaxyrus boreas halophilus" ; Times: 2
+	Query: "gopherus flavomarginatus" ; Times: 2
+	Query: "mexico sphaerodactylus" ; Times: 1
+	Query: "genus:mesoclemmys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 809 download events in this period)
+Total number of records downloaded: 10561
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Indonesia ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-08 ; Times: 1
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-20 ; Times: 2
+	Date: 2018-12-06 ; Times: 1
+	Date: 2018-12-22 ; Times: 6
+	Date: 2018-12-18 ; Times: 1
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-09 ; Times: 1
+	Date: 2018-12-28 ; Times: 2
+	Date: 2018-12-07 ; Times: 4
+	Date: 2018-12-04 ; Times: 1
+	Date: 2018-12-05 ; Times: 1
+	Date: 2018-12-11 ; Times: 1
+	Date: 2018-12-03 ; Times: 2
+	Date: 2018-12-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "gorzugi" ; Times: 1
+	Query: "ebraccatus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Nerodia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Cnemidophorus sackii" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "testudo hermanni" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "gopherus flavomarginatus" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "crotalus durissus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "Molossus molossus" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year &gt;= 2000 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Testudines" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen order:Squamata class:Reptilia country:&#34;Belize&#34;" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.
