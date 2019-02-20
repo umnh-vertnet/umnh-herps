@@ -1,0 +1,165 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 104
+Number of records retrieved in searches: 548
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Turkey ; Times: 2
+	Country: Mexico ; Times: 11
+	Country: India ; Times: 2
+	Country: United States ; Times: 75
+	Country: Sweden ; Times: 2
+	Country: Vietnam ; Times: 6
+	Country: Germany ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-18 ; Times: 2
+	Date: 2019-01-19 ; Times: 7
+	Date: 2019-01-14 ; Times: 2
+	Date: 2019-01-15 ; Times: 2
+	Date: 2019-01-16 ; Times: 7
+	Date: 2019-01-17 ; Times: 2
+	Date: 2019-01-10 ; Times: 10
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-13 ; Times: 7
+	Date: 2019-01-02 ; Times: 2
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-28 ; Times: 4
+	Date: 2019-01-01 ; Times: 4
+	Date: 2019-01-07 ; Times: 3
+	Date: 2019-01-05 ; Times: 2
+	Date: 2019-01-04 ; Times: 9
+	Date: 2019-01-21 ; Times: 10
+	Date: 2019-01-20 ; Times: 6
+	Date: 2019-01-09 ; Times: 3
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-24 ; Times: 12
+	Date: 2019-01-27 ; Times: 4
+	Date: 2019-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "platysternon megacephalum" ; Times: 2
+	Query: "genus:Pseudoboa country:&#34;Panama&#34; institutioncode:UMNH" ; Times: 1
+	Query: "Terrapene yucatana" ; Times: 1
+	Query: "specificepithet:dissoleucus genus:Micrurus AND (NOT MEXICO)" ; Times: 1
+	Query: "specificepithet:picta genus:chrysemys county:&#34;lake&#34; stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "class:reptilia county:&#34;multnomah&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "sauromalus coconino" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Maverick&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus county:&#34;Maverick&#34; stateprovince:&#34;Texas&#34; institutioncode:UMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Reptilia Wisconsin marquette" ; Times: 1
+	Query: "trachemys nebulosa sonora" ; Times: 1
+	Query: "Reptilia Wisconsin Juneau" ; Times: 2
+	Query: "specificepithet:dissoleucus genus:Micrurus country:&#34;Panama&#34; AND (NOT MEXICO)" ; Times: 1
+	Query: "UTA 21917" ; Times: 1
+	Query: "catalognumber:18450 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Tantilla country:&#34;Panama&#34;" ; Times: 3
+	Query: "Terrapene carolina yucatana" ; Times: 2
+	Query: "Platysternon megacephalum" ; Times: 5
+	Query: "Glyptemys muhlenbergii" ; Times: 2
+	Query: "specificepithet:mentovarius genus:Masticophis AND (NOT MEXICO)" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "Masticophis schotti" ; Times: 2
+	Query: "Pseudemys rubriventris" ; Times: 1
+	Query: "Testudo graeca" ; Times: 1
+	Query: "genus:lithobates county:&#34;gunnison&#34; stateprovince:&#34;colorado&#34;" ; Times: 3
+	Query: "class:Reptilia locality:Ensenada stateprovince:&#34;Baja California&#34; country:&#34;México&#34; continent:América (Reptilia México)" ; Times: 1
+	Query: "velox mohave" ; Times: 1
+	Query: "Reptilia coconino sceloporus graciosus" ; Times: 1
+	Query: "lithobates onca" ; Times: 2
+	Query: "Vernalis illinois" ; Times: 1
+	Query: "Graptemys flavimaculata" ; Times: 2
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "Norops biporcatus" ; Times: 2
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "Mutica wisconsin" ; Times: 4
+	Query: "family:colubridae locality:Linares" ; Times: 2
+	Query: "class:reptilia county:&#34;washington&#34; stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "genus:Gopherus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Basiliscus galeritus" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT AMNH)" ; Times: 1
+	Query: "reptilia velox mohave" ; Times: 1
+	Query: "16264" ; Times: 1
+	Query: "genus:oxyrhopus country:&#34;panama&#34;" ; Times: 2
+	Query: "Eurycea nana" ; Times: 2
+	Query: "Norops lemurinus" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "20371 class: amphibia" ; Times: 1
+	Query: "genus:lithobates county:&#34;mesa&#34; stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Lithobates vibicarius" ; Times: 2
+	Query: "(Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:UMNH" ; Times: 1
+	Query: "15059" ; Times: 1
+	Query: "Reptilia Wisconsin Sauk" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Panama&#34;" ; Times: 7
+	Query: "UTA 5113" ; Times: 1
+	Query: "Emydoidea blandingii wisconsin" ; Times: 2
+	Query: "clemmys indiana" ; Times: 1
+	Query: "sistrurus wisconsin" ; Times: 3
+	Query: "Crocodylus acutus" ; Times: 3
+	Query: "genus:Pseudoboa country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta county:&#34;San Juan&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Ontario&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:onca genus:Lithobates stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Emydoidea Wisconsin" ; Times: 3
+	Query: "Sistrurus Missouri" ; Times: 2
+	Query: "Reptilia Georgia jasper" ; Times: 1
+	Query: "Uma inornata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 962 download events in this period)
+Total number of records downloaded: 371
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: United Kingdom ; Times: 2
+	Country: Iran ; Times: 2
+	Country: Ecuador ; Times: 5
+	Country: Kenya ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-01 ; Times: 2
+	Date: 2019-01-08 ; Times: 4
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-14 ; Times: 1
+	Date: 2019-01-20 ; Times: 2
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-17 ; Times: 2
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-12 ; Times: 2
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicauda genus:Eurycea" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 3
+	Query: "Gymnophiona" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Plethodon" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "Tropidoclonion" ; Times: 1
+	Query: "genus:Opheodrys aestivus" ; Times: 1
+	Query: "reptilia velox mohave" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "genus:lithobates county:&#34;gunnison&#34; stateprovince:&#34;colorado&#34;" ; Times: 2
+	Query: "Crocodilia" ; Times: 1
+	Query: "siren intermedia" ; Times: 1
+	Query: "vntype:specimen carettochelys" ; Times: 1
+	Query: "Carettochelys" ; Times: 1
+	Query: "class:reptilia county:&#34;tompkins&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+
+
+End of report.
