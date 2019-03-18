@@ -1,0 +1,157 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 1018
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 57
+	Country: Israel ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Panama ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-05 ; Times: 4
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-10 ; Times: 9
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-12 ; Times: 3
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-24 ; Times: 8
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-27 ; Times: 1
+	Date: 2019-02-06 ; Times: 5
+	Date: 2019-02-07 ; Times: 3
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-08 ; Times: 4
+	Date: 2019-02-28 ; Times: 2
+	Date: 2019-02-03 ; Times: 10
+	Date: 2019-02-01 ; Times: 6
+	Date: 2019-02-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Batrachoseps county:&#34;San Diego&#34;" ; Times: 4
+	Query: "genus:Trachemys institutioncode:UMNH" ; Times: 1
+	Query: "Phrynosoma asio" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys institutioncode:UMNH" ; Times: 1
+	Query: "genus:Drymarchon country:&#34;Costa Rica&#34;" ; Times: 2
+	Query: "stateprovince:&#34;Nevada&#34; institutioncode:UMNH" ; Times: 1
+	Query: "genus:Masticophis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Graptemys barbouri" ; Times: 1
+	Query: "anaxyrus kelloggi" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Pseustes country:&#34;Panama&#34;" ; Times: 1
+	Query: "UTA-A \21658" ; Times: 1
+	Query: "specificepithet:horridus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Chelonoidis chilensis" ; Times: 1
+	Query: "specificepithet:pyromelana genus:lampropeltis stateprovince:&#34;Utah&#34; year &gt;= 1990 year &lt;= 1998" ; Times: 1
+	Query: "Chelonoidis carbonaria" ; Times: 2
+	Query: "Phyllobates lugubris" ; Times: 1
+	Query: "UTA-A 21604" ; Times: 1
+	Query: "specificepithet:scripta genus:Trachemys country:&#34;United States&#34; institutioncode:UMNH" ; Times: 5
+	Query: "Basiliscus country:&#34;Nicaragua&#34;" ; Times: 2
+	Query: "class:Reptilia locality:Penonome stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "desmognathus ochrophaeus lebanon pennsylvania" ; Times: 3
+	Query: "Batrachoseps &#34;San Diego&#34;" ; Times: 1
+	Query: "Leptodeira nigrofasciata" ; Times: 1
+	Query: "18081" ; Times: 1
+	Query: "Trachemys baja" ; Times: 1
+	Query: "UTA 7322" ; Times: 1
+	Query: "genus:Drymarchon country:&#34;Panama&#34;" ; Times: 3
+	Query: "genus:Crotalus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:dissoleucus genus:Micrurus country:&#34;Panama&#34;" ; Times: 1
+	Query: "Podocnemis lewyana" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "UTA-A 21622" ; Times: 2
+	Query: "glyptemys muhlenbergii" ; Times: 2
+	Query: "Testudo kleinmanni" ; Times: 2
+	Query: "holcosus undulatus" ; Times: 1
+	Query: "UTA-A 21658" ; Times: 2
+	Query: "stateprovince:&#34;Pennsylvania&#34; institutioncode:UMNH" ; Times: 2
+	Query: "institutioncode:UMNH" ; Times: 1
+	Query: "class:Reptilia locality:Nata stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "genus:Pseudemys institutioncode:UMNH" ; Times: 1
+	Query: "crotalus zacatecas" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 1
+	Query: "catalognumber:15144" ; Times: 1
+	Query: "genus:Epicrates country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Panama&#34;" ; Times: 1
+	Query: "oscaecilia ochrocephala" ; Times: 2
+	Query: "specificepithet:lacertina stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "platysternon" ; Times: 1
+	Query: "UTA 9631" ; Times: 1
+	Query: "specificepithet:pyromelana genus:lampropeltis stateprovince:&#34;Utah&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1227 download events in this period)
+Total number of records downloaded: 851
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 24
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-11 ; Times: 9
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-12 ; Times: 3
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-17 ; Times: 2
+	Date: 2019-02-16 ; Times: 2
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-06 ; Times: 3
+	Date: 2019-02-08 ; Times: 1
+	Date: 2019-02-09 ; Times: 1
+	Date: 2019-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "genus:Sauromalus" ; Times: 11
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "xantusia vigilis" ; Times: 1
+	Query: "tantilla melanocephala" ; Times: 1
+	Query: "specificepithet:carolina genus:Terrapene stateprovince:&#34;Virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Chironius" ; Times: 1
+	Query: "porcupine" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "genus:Xantusia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:biscutatus genus:Trimorphodon" ; Times: 1
+	Query: "dermophis mexicanus" ; Times: 1
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "specificepithet:cinereus institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "Gymnopis multiplicata" ; Times: 1
+
+
+End of report.
