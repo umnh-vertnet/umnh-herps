@@ -1,0 +1,153 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 65
+Number of records retrieved in searches: 453
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 50
+	Country: Mexico ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-18 ; Times: 2
+	Date: 2019-04-02 ; Times: 1
+	Date: 2019-04-30 ; Times: 2
+	Date: 2019-04-12 ; Times: 5
+	Date: 2019-04-10 ; Times: 14
+	Date: 2019-04-16 ; Times: 4
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-23 ; Times: 7
+	Date: 2019-04-07 ; Times: 6
+	Date: 2019-04-26 ; Times: 5
+	Date: 2019-04-27 ; Times: 1
+	Date: 2019-04-24 ; Times: 1
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-03 ; Times: 3
+	Date: 2019-04-08 ; Times: 4
+	Date: 2019-04-09 ; Times: 5
+	Date: 2019-04-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "UMNH 12575" ; Times: 2
+	Query: "beaver dam wash class:reptilia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "beaver wash class:reptilia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "beaver wash class:reptilia stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "class:reptilia locality:big creek year &gt;= 2009 year &lt;= 2019" ; Times: 1
+	Query: "Emys marmorata stateprovince:&#34;California&#34; year &gt;= 1998" ; Times: 1
+	Query: "Winslow sceloporus" ; Times: 1
+	Query: "specificepithet:rubriventris genus:pseudemys stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "Lampropeltis pyromelana infralabialis" ; Times: 2
+	Query: "Lithobates onca" ; Times: 1
+	Query: "leptotyphlops humilis utahensis" ; Times: 1
+	Query: "Phyllobates lugubris" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; (marmorata)" ; Times: 2
+	Query: "Emys marmorata" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Pantherophis vulpinus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Glasscock&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:pyromelana genus:lampropeltis stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "beaver dam wash class:reptilia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:crocodilus genus:Caiman" ; Times: 1
+	Query: "UMNH 12757" ; Times: 1
+	Query: "genus:kinosternon stateprovince:&#34;nayarit&#34;" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "genus:diadophis stateprovince:&#34;utah&#34;" ; Times: 14
+	Query: "specificepithet:pyromelana stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Platysternon" ; Times: 2
+	Query: "Phrynosoma solare mappable:1" ; Times: 1
+	Query: "M-14857" ; Times: 1
+	Query: "Trimorphodon biscutatus lambda" ; Times: 1
+	Query: "Sceloporus magister Navajo County arizona" ; Times: 1
+	Query: "beaver dam wash class:reptilia" ; Times: 1
+	Query: "family:kinosternidae stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "genus:Kinosternon stateprovince:&#34;Zacatecas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "navajo county crotaphytus" ; Times: 1
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "sceloporus variabilis nicaragua" ; Times: 2
+	Query: "diadophis punctatus regalis" ; Times: 2
+	Query: "specificepithet:triangulum stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Opheodrys vernalis blanchardi" ; Times: 1
+	Query: "claudius angustatus" ; Times: 1
+	Query: "navajo county Phrynosoma" ; Times: 1
+	Query: "genus:Ambystoma county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1263 download events in this period)
+Total number of records downloaded: 1798
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Malaysia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-02 ; Times: 1
+	Date: 2019-04-12 ; Times: 3
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-16 ; Times: 4
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-21 ; Times: 2
+	Date: 2019-04-27 ; Times: 1
+	Date: 2019-04-24 ; Times: 3
+	Date: 2019-04-25 ; Times: 3
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-08 ; Times: 4
+	Date: 2019-04-09 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Phyllodactylus" ; Times: 1
+	Query: "spea hammondii" ; Times: 2
+	Query: "Rhinodermatidae" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:texanum" ; Times: 1
+	Query: "class:reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; year &gt;= 1990" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Crotalus stephensi" ; Times: 1
+	Query: "specificepithet:rubriventris genus:pseudemys stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "Xantusia Utah" ; Times: 1
+	Query: "Ambystoma mavortium" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:opacum" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma" ; Times: 1
+	Query: "family:kinosternidae stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "specificepithet:atrox genus:crotalus" ; Times: 1
+	Query: "genus:rhinoclemmys order:testudines" ; Times: 1
+	Query: "specificepithet:reticulatus genus:crotaphytus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:lineattissimus genus:Cnemidophorus" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "kinosternon hirtipes" ; Times: 1
+	Query: "Rhinoderma" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 2
+	Query: "genus:Kinosternon stateprovince:&#34;Zacatecas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus year&gt;1990" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Mabuya unimarginata" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:jeffersonianum" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+
+
+End of report.
