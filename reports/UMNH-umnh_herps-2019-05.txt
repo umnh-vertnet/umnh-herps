@@ -1,0 +1,143 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 724
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 45
+	Country: Sweden ; Times: 1
+	Country: Vietnam ; Times: 23
+	Country: Germany ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 4
+	Date: 2019-05-12 ; Times: 20
+	Date: 2019-05-26 ; Times: 2
+	Date: 2019-05-21 ; Times: 5
+	Date: 2019-05-20 ; Times: 3
+	Date: 2019-05-23 ; Times: 4
+	Date: 2019-05-22 ; Times: 4
+	Date: 2019-05-14 ; Times: 8
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-01 ; Times: 7
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-07 ; Times: 2
+	Date: 2019-05-11 ; Times: 5
+	Date: 2019-05-05 ; Times: 3
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-30 ; Times: 5
+	Date: 2019-05-15 ; Times: 4
+	Date: 2019-05-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:2031 institutioncode:UMNH" ; Times: 1
+	Query: "genus:Sonora county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "catalognumber:3819 institutioncode:UMNH" ; Times: 1
+	Query: "pyromelana" ; Times: 2
+	Query: "platysternon megacephalum" ; Times: 23
+	Query: "Erythrolamprus mimus" ; Times: 3
+	Query: "gopherus flavomarginatus" ; Times: 1
+	Query: "Lampropeltis pyromelana infralabialis" ; Times: 1
+	Query: "specificepithet:hobartsmithi genus:Tantilla stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "catalognumber:13842 institutioncode:UMNH" ; Times: 1
+	Query: "Leptophis depressirostris" ; Times: 1
+	Query: "Erythrolamprus mimus mimus" ; Times: 1
+	Query: "class:reptilia county:&#34;ontario&#34; stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Lassen&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Herp vntype:specimen county:&#34;Harris&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "porthidium nasutum" ; Times: 2
+	Query: "Flaviemys" ; Times: 1
+	Query: "kinosternon acutum" ; Times: 1
+	Query: "Pseustes shropshirei" ; Times: 3
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Trachemys scripta Ohio" ; Times: 2
+	Query: "order:Serpentes country:&#34;Belize&#34;" ; Times: 1
+	Query: "kinosternon integrum nayarit méxico" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Arkansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "meade sirtalis" ; Times: 4
+	Query: "washoe phrynosoma" ; Times: 1
+	Query: "order:Testudines institutioncode:UMNH" ; Times: 1
+	Query: "institutioncode:umnh" ; Times: 1
+	Query: "Dermochelys coriacea" ; Times: 2
+	Query: "catalognumber:150 institutioncode:UMNH" ; Times: 1
+	Query: "UMNH dutchess" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 6
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;Arizona&#34; country:&#34;united states&#34;" ; Times: 2
+	Query: "Notochelys" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Heloderma stateprovince:&#34;Nevada&#34;" ; Times: 3
+	Query: "catalognumber:3913 institutioncode:UMNH" ; Times: 1
+	Query: "Myuchelys" ; Times: 1
+	Query: "family:emydidae county:&#34;San Diego&#34;" ; Times: 1
+	Query: "genus:Kinosternon institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Nevada&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 940 download events in this period)
+Total number of records downloaded: 649
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ghana ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Poland ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 13
+	Country: Vietnam ; Times: 1
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-12 ; Times: 3
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-01 ; Times: 2
+	Date: 2019-05-09 ; Times: 2
+	Date: 2019-05-08 ; Times: 3
+	Date: 2019-05-10 ; Times: 3
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-05 ; Times: 1
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-16 ; Times: 1
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "platysternon megacephalum" ; Times: 1
+	Query: "specificepithet:crepitans genus:Acris" ; Times: 2
+	Query: "order:Squamata country:&#34;Belize&#34;" ; Times: 1
+	Query: "&#34;spea hammondii&#34;" ; Times: 1
+	Query: "vntype:specimen order:Squamata country:&#34;Belize&#34;" ; Times: 1
+	Query: "vntype:specimen class:Amphibia country:&#34;Belize&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "gopherus flavomarginatus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "kinosternon integrum nayarit méxico" ; Times: 1
+	Query: "family:Eublepharidae" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "gambelia wislizenii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "crotalus atrox" ; Times: 1
+	Query: "Atelopus varius" ; Times: 1
+	Query: "sauromalus" ; Times: 1
+	Query: "family:emydidae county:&#34;San Diego&#34;" ; Times: 1
+
+
+End of report.
