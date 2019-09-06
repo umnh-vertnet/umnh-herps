@@ -1,0 +1,210 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 118
+Number of records retrieved in searches: 1181
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: Dominican Republic ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Jamaica ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: United States ; Times: 91
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 3
+	Date: 2019-08-08 ; Times: 14
+	Date: 2019-08-07 ; Times: 3
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-04 ; Times: 1
+	Date: 2019-08-05 ; Times: 9
+	Date: 2019-08-06 ; Times: 4
+	Date: 2019-08-29 ; Times: 3
+	Date: 2019-08-26 ; Times: 8
+	Date: 2019-08-09 ; Times: 5
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-23 ; Times: 8
+	Date: 2019-08-20 ; Times: 6
+	Date: 2019-08-15 ; Times: 15
+	Date: 2019-08-14 ; Times: 2
+	Date: 2019-08-13 ; Times: 3
+	Date: 2019-08-12 ; Times: 5
+	Date: 2019-08-11 ; Times: 6
+	Date: 2019-08-10 ; Times: 3
+	Date: 2019-08-31 ; Times: 3
+	Date: 2019-08-30 ; Times: 9
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Terrapene nelsoni" ; Times: 1
+	Query: "reptiles san diego" ; Times: 1
+	Query: "Tantilla atriceps" ; Times: 1
+	Query: "Trachemys terrapen" ; Times: 2
+	Query: "Sistrurus catenatus catenatus" ; Times: 5
+	Query: "specificepithet:emoryi genus:Pantherophis stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "Gopherus agassizii" ; Times: 4
+	Query: "Cochranella pulverata" ; Times: 1
+	Query: "moffat thamnophis" ; Times: 2
+	Query: "Terrapene carolina mexicana" ; Times: 1
+	Query: "kinosternon integrum" ; Times: 7
+	Query: "specificepithet:triaspis genus:Senticolis stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "pseudemys gorzugi" ; Times: 2
+	Query: "Holbrookia Utah" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Terrapene carolina yucatana" ; Times: 1
+	Query: "Rana aurora" ; Times: 3
+	Query: "genus:Lepidochelys  specificepithet:kempii" ; Times: 1
+	Query: "Corallus annulatus" ; Times: 4
+	Query: "elgaria utah" ; Times: 1
+	Query: "specificepithet:emoryi genus:pantherophis stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "specificepithet:muralis genus:Phyllodactylus institutioncode:UMNH" ; Times: 6
+	Query: "Acrochordus javanicus" ; Times: 1
+	Query: "specificepithet:nasicus genus:heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Mutica missouri" ; Times: 3
+	Query: "Drymarchon corais" ; Times: 3
+	Query: "Naja kaouthia" ; Times: 1
+	Query: "enhydris pakistanica" ; Times: 1
+	Query: "Thamnophis elegans Navajo" ; Times: 2
+	Query: "Crocodylus johnsoni" ; Times: 1
+	Query: "19485" ; Times: 1
+	Query: "Oscaecilia ochrocephala" ; Times: 1
+	Query: "genus:Kinosternon stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:gerrhonotus stateprovince:&#34;utah&#34;" ; Times: 2
+	Query: "21879" ; Times: 1
+	Query: "Urosaurus ornatus levis" ; Times: 1
+	Query: "Moffat crotalus colorado" ; Times: 2
+	Query: "Trachemys ornata" ; Times: 1
+	Query: "Anaxyrus microscaphus mappable:1" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 3
+	Query: "Leptodactylus bolivianus" ; Times: 1
+	Query: "Trachycephalus venulosus" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:integrum genus:Kinosternon stateprovince:&#34;Jalisco&#34;" ; Times: 2
+	Query: "genus:Charina county:&#34;Lander&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Thamnophis San miguel Colorado" ; Times: 2
+	Query: "specificepithet:xanti genus:Phyllodactylus institutioncode:UMNH" ; Times: 6
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "vntype:specimen specificepithet:integrum genus:Kinosternon stateprovince:&#34;Nayarit&#34;" ; Times: 1
+	Query: "Crocodylus acutus" ; Times: 6
+	Query: "Macrochelys arkansas" ; Times: 2
+	Query: "Heloderma" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "locality:Pole Canyon county:&#34;Utah&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Crotalus oreganus concolor" ; Times: 3
+	Query: "specificepithet:glaucus genus:Sphaerodactylus institutioncode:UMNH" ; Times: 5
+	Query: "crotalus oreganus lutosus" ; Times: 1
+	Query: "pseudemys gorzugi texas" ; Times: 1
+	Query: "specificepithet:alvarius family:Bufonidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "rhinoclemmys annulata" ; Times: 1
+	Query: "18903" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 61 (out of 1034 download events in this period)
+Total number of records downloaded: 1912
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 33
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 21
+	Country: Germany ; Times: 1
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 2
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-06 ; Times: 3
+	Date: 2019-08-01 ; Times: 5
+	Date: 2019-08-02 ; Times: 15
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 5
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 8
+	Date: 2019-08-28 ; Times: 1
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-04 ; Times: 6
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-31 ; Times: 4
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:inornatus family:Teiidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Phrynosoma country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Urosaurus bicarinatus" ; Times: 1
+	Query: "specificepithet:multicarinata genus:elgaria" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 1
+	Query: "Sceloporus utiformis" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Terrapene nelsoni" ; Times: 1
+	Query: "Sphenomorphus cherriei" ; Times: 1
+	Query: "batrachoseps attenuatus" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Salvadora mexicana" ; Times: 1
+	Query: "genus:Masticophis country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Kinosternon hirtipes" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Masticophis mentovarius" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "specificepithet:tetragrammus genus:Plestiodon" ; Times: 1
+	Query: "specificepithet:inornatus family:teiidae stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Potos" ; Times: 1
+	Query: "Sceloporus jarrovii" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;idaho&#34;" ; Times: 1
+	Query: "Trachemys ornata" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Acrochordus" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;wyoming&#34;" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "kinosternon integrum" ; Times: 1
+	Query: "agalychnis callidryas" ; Times: 1
+	Query: "Pituophis deppei" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 1
+	Query: "drymobius margaritiferus" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 1
+	Query: "Crotalus oreganus concolor" ; Times: 1
+	Query: "callisaurus draconoides" ; Times: 2
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "Senticolis triaspis" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "rhinella marina" ; Times: 2
+	Query: "sceloporus torquatus" ; Times: 2
+	Query: "Acrochordus javanicus" ; Times: 1
+	Query: "Rhinocheilus lecontei" ; Times: 1
+	Query: "specificepithet:pipiens genus:Lithobates stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Chrysemys picta marginata" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+	Query: "Kinosternon integrum" ; Times: 1
+
+
+End of report.
