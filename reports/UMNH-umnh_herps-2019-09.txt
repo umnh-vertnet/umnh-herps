@@ -1,0 +1,160 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 96
+Number of records retrieved in searches: 1254
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 72
+	Country: Brazil ; Times: 12
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 4
+	Date: 2019-09-20 ; Times: 9
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-17 ; Times: 4
+	Date: 2019-09-10 ; Times: 8
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-12 ; Times: 5
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-26 ; Times: 6
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-19 ; Times: 4
+	Date: 2019-09-06 ; Times: 10
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-23 ; Times: 5
+	Date: 2019-09-03 ; Times: 6
+	Date: 2019-09-27 ; Times: 5
+	Date: 2019-09-04 ; Times: 12
+	Date: 2019-09-25 ; Times: 7
+	Date: 2019-09-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "gorzugi" ; Times: 1
+	Query: "Kinosternon scorpioides scorpioides" ; Times: 3
+	Query: "trachemys hiltoni" ; Times: 1
+	Query: "boreas vntype:specimen stateprovince:&#34;Nevada&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:marmorata county:&#34;marin&#34;" ; Times: 2
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "inornatus coconino" ; Times: 3
+	Query: "specificepithet:emoryi genus:pantherophis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Kinosternon scorpioides" ; Times: 2
+	Query: "gray fox" ; Times: 1
+	Query: "Eleutherodactylus nitidus" ; Times: 1
+	Query: "Rhinoderma darwinii" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber county:&#34;Alameda&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "genus:CHARINA county:&#34;lake&#34;" ; Times: 1
+	Query: "16994." ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 7
+	Query: "genus:trachemys stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "specificepithet:atratus genus:Thamnophis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "porthidium nasutum" ; Times: 1
+	Query: "specificepithet:glaucus genus:Sphaerodactylus institutioncode:UMNH" ; Times: 3
+	Query: "genus:Pituophis stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "Drymarchon corais" ; Times: 10
+	Query: "specificepithet:flagellum genus:Masticophis county:&#34;San Diego&#34; stateprovince:&#34;California&#34; AND (NOT CERASTES NOT RUBER NOT VIRIDIS NOT OREGANUS )" ; Times: 1
+	Query: "genus:Crotaphytus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:CHARINA stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Platemys platycephala" ; Times: 7
+	Query: "genus:heloderma" ; Times: 2
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;New York&#34; year &gt;= 1950 year &lt;= 2019 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "Macrochelys temminckii stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "inornatus navajo" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus institutioncode:UMNH" ; Times: 5
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "Trachemys nebulosa hiltoni" ; Times: 1
+	Query: "amphibians atotonilco" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;New York&#34; year &gt;= 1950 year &lt;= 2019 month &gt;= 9 month &lt;= 9" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Minnesota&#34; year &gt;= 2015 year &lt;= 2019" ; Times: 3
+	Query: "Trachemys hiltoni" ; Times: 7
+	Query: "vntype:specimen specificepithet:marmorata genus:emys (alcohol OR ethanol) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;Minnesota&#34; year &gt;= 2015 year &lt;= 2019" ; Times: 1
+	Query: "class:Reptilia locality:Hammond county:&#34;Tulare&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:muralis genus:Phyllodactylus institutioncode:UMNH" ; Times: 5
+	Query: "specificepithet:suspectum genus:heloderma country:&#34;united states&#34;" ; Times: 2
+	Query: "class:Reptilia locality:Kernville county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lampropeltis floridana" ; Times: 1
+	Query: "specificepithet:Barbouri genus:Graptemys stateprovince:&#34;Florida&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1073 download events in this period)
+Total number of records downloaded: 766
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Brunei ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 26
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 4
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-11 ; Times: 4
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-29 ; Times: 3
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 4
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-27 ; Times: 3
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-04 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "gorzugi" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "boreas" ; Times: 1
+	Query: "amphibians chapala" ; Times: 1
+	Query: "specificepithet:marmorata county:&#34;marin&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "inornatus coconino" ; Times: 1
+	Query: "genus:aspidoscelis hastissue:1" ; Times: 1
+	Query: "genus:Sonora Texas" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "reptiles jalisco" ; Times: 1
+	Query: "urosaurus bicarinatus" ; Times: 1
+	Query: "Salvadora mexicana" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "boreas vntype:specimen hastissue:1" ; Times: 1
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "genus:Crotaphytus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Macrochelys temminckii stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "boa imperator" ; Times: 1
+	Query: "Texas genus:Sonora" ; Times: 1
+	Query: "inornatus navajo" ; Times: 1
+	Query: "Reptilia Dakota" ; Times: 1
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "cystignathoides texas" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+
+
+End of report.
