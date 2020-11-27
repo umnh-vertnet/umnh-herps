@@ -1,0 +1,258 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 529
+Number of records retrieved in searches: 6715
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 449
+	Country: Australia ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 16
+	Country: Mexico ; Times: 7
+	Country: United Kingdom ; Times: 46
+	Country: Austria ; Times: 2
+	Country: Ireland ; Times: 1
+	Country: Spain ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-05 ; Times: 7
+	Date: 2020-04-06 ; Times: 5
+	Date: 2020-04-07 ; Times: 24
+	Date: 2020-04-22 ; Times: 32
+	Date: 2020-04-23 ; Times: 7
+	Date: 2020-04-20 ; Times: 118
+	Date: 2020-04-21 ; Times: 71
+	Date: 2020-04-26 ; Times: 5
+	Date: 2020-04-01 ; Times: 24
+	Date: 2020-04-24 ; Times: 12
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 4
+	Date: 2020-04-08 ; Times: 12
+	Date: 2020-04-27 ; Times: 6
+	Date: 2020-04-03 ; Times: 6
+	Date: 2020-04-19 ; Times: 35
+	Date: 2020-04-18 ; Times: 23
+	Date: 2020-04-13 ; Times: 4
+	Date: 2020-04-10 ; Times: 4
+	Date: 2020-04-17 ; Times: 24
+	Date: 2020-04-16 ; Times: 28
+	Date: 2020-04-15 ; Times: 33
+	Date: 2020-04-14 ; Times: 36
+	Date: 2020-04-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia locality:Penonome stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34; institutioncode:UMNH" ; Times: 1
+	Query: "heloderma" ; Times: 1
+	Query: "genus:Drymarchon country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;Wisconsin&#34;" ; Times: 2
+	Query: "trachemys grayi" ; Times: 1
+	Query: "specificepithet:insculpta genus:Glyptemys" ; Times: 3
+	Query: "pseudemys concinna stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "chelydra rossignonii" ; Times: 2
+	Query: "class:reptilia county:&#34;Harrison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Almirante stateprovince:&#34;Bocas del Toro&#34; country:&#34;Panama&#34;" ; Times: 4
+	Query: "genus:lampropeltis stateprovince:&#34;utah&#34;" ; Times: 3
+	Query: "genus:pseudemys catalognumber:4097" ; Times: 2
+	Query: "class:Reptilia locality:Penonome stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 4
+	Query: "specificepithet:bottae genus:Charina stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Lawrence&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 2
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;White Pine&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Pelusios castaneus" ; Times: 5
+	Query: "Xenopus muelleri" ; Times: 6
+	Query: "genus:Carphophis stateprovince:&#34;New Jersey&#34;" ; Times: 2
+	Query: "Dermatemys mawii" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 267
+	Query: "rhinoclemmys rubida" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Darien&#34; country:&#34;Panama&#34; AND (NOT ANOLIS) institutioncode:UMNH" ; Times: 1
+	Query: "genus:Diadophis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Reptilia locality:Dominical stateprovince:&#34;Puntarenas&#34; country:&#34;Costa Rica&#34;" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Wisconsin&#34;" ; Times: 1
+	Query: "(18647)" ; Times: 2
+	Query: "genus:Glyptemys insculpta" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 1
+	Query: "genus:Dermatemys institutioncode:UMNH" ; Times: 18
+	Query: "Trachemys scripta arkansas" ; Times: 4
+	Query: "Chersina angulata" ; Times: 1
+	Query: "specificepithet:subrubrum genus:Kinosternon class:Reptilia county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "(gorzugi)" ; Times: 1
+	Query: "FICIMIA STRECKERI" ; Times: 1
+	Query: "Podocnemis unifilis" ; Times: 6
+	Query: "Hatch Utah" ; Times: 2
+	Query: "class:Reptilia locality:Tortuguero stateprovince:&#34;Limon&#34; country:&#34;Costa Rica&#34; AND (NOT UF NOT CM NOT LACM)" ; Times: 2
+	Query: "specificepithet:gorzugi genus:Pseudemys" ; Times: 1
+	Query: "Glyptemys insculpta." ; Times: 20
+	Query: "class:Reptilia county:&#34;Chowan&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "18103" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Herrera&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:gorzugi" ; Times: 1
+	Query: "recordedby:w. w. price" ; Times: 1
+	Query: "class:Reptilia county:&#34;Camden&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Liotyphlops class:Reptilia stateprovince:&#34;Panama&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "dermatemys mawii" ; Times: 7
+	Query: "Pelusios gabonensis" ; Times: 4
+	Query: "lampropeltis triangulum gentilis" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Pseustes country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:cenchria genus:Epicrates country:&#34;Panama&#34;" ; Times: 1
+	Query: "locality:chesapeake county:&#34;box elder&#34;" ; Times: 1
+	Query: "dermatemys" ; Times: 3
+	Query: "pseudemys gorzugi" ; Times: 19
+	Query: "class:Reptilia locality:Almirante stateprovince:&#34;Bocas del Toro&#34; country:&#34;Panama&#34; institutioncode:UMNH" ; Times: 1
+	Query: "anuran" ; Times: 1
+	Query: "class:Reptilia locality:Cuatro Cienegas stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Drymarchon country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:pyromelana genus:lampropeltis stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "locality:Cuatro Cienegas stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Reptilia locality:El Valle de Anton stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "class:reptilia catalognumber:7347" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "class:Reptilia locality:Anton stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "Pelomedusa subrufa" ; Times: 4
+	Query: "Anaxyrus kelloggi" ; Times: 10
+	Query: "genus:Heloderma stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "chelydra serpentina mississippi" ; Times: 1
+	Query: "staurotypus salvinii" ; Times: 1
+	Query: "genus:phrynosoma order:Squamata county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Psammobates" ; Times: 1
+	Query: "pelusios gabonensis" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Marion&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "kinosternon subrubrum mississippi" ; Times: 1
+	Query: "Gopherus flavomarginatus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Harrison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 2
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Caiman crocodilus" ; Times: 3
+	Query: "genus:heloderma county:&#34;clark&#34; stateprovince:&#34;nevada&#34;" ; Times: 2
+	Query: "class:Reptilia locality:Nata stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 3
+	Query: "glyptemys insculpta" ; Times: 35
+	Query: "Heloderma" ; Times: 1
+	Query: "pseudemys floridana stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "(18642)" ; Times: 2
+	Query: "genus:plestiodon stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Trachemys yaquia" ; Times: 2
+	Query: "Lithobates palmipes" ; Times: 8
+	Query: "Trachemys scripta elegans arkansas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 89 (out of 1171 download events in this period)
+Total number of records downloaded: 3517
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 70
+	Country: Australia ; Times: 10
+	Country: Kenya ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 4
+	Date: 2020-04-04 ; Times: 2
+	Date: 2020-04-06 ; Times: 8
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-05 ; Times: 2
+	Date: 2020-04-20 ; Times: 4
+	Date: 2020-04-07 ; Times: 1
+	Date: 2020-04-27 ; Times: 3
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-03 ; Times: 4
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 23
+	Date: 2020-04-08 ; Times: 2
+	Date: 2020-04-09 ; Times: 4
+	Date: 2020-04-19 ; Times: 5
+	Date: 2020-04-18 ; Times: 8
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 3
+	Date: 2020-04-10 ; Times: 4
+	Date: 2020-04-16 ; Times: 2
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "emydoidea" ; Times: 3
+	Query: "rhinoclemmys areolata" ; Times: 1
+	Query: "trachemys scripta elegans" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "trachemys grayi" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Rana luteiventris" ; Times: 1
+	Query: "pseudemys concinna stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus" ; Times: 1
+	Query: "chelydra rossignonii" ; Times: 1
+	Query: "&#34;Iguana iguana&#34;" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "thamnophis eques" ; Times: 1
+	Query: "Charina bottae" ; Times: 1
+	Query: "pseudemys gorzugi" ; Times: 2
+	Query: "specificepithet:tigris genus:Aspidoscelis" ; Times: 2
+	Query: "Sceloporus tristichus" ; Times: 1
+	Query: "specificepithet:hernandesi genus:Phrynosoma" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus" ; Times: 1
+	Query: "eretmochelys" ; Times: 1
+	Query: "claudius angustatus" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:dorsalis genus:plethodon" ; Times: 1
+	Query: "specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "specificepithet:pretiosa genus:Rana year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma" ; Times: 1
+	Query: "rhinoclemmys rubida" ; Times: 1
+	Query: "specificepithet:draconoides genus:Callisaurus" ; Times: 2
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis" ; Times: 2
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "Thamnophis atratus" ; Times: 1
+	Query: "blandingii" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Heterodon" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "Diasporus" ; Times: 1
+	Query: "specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "Eleutherodactylus" ; Times: 1
+	Query: "staurotypus triporcatus" ; Times: 1
+	Query: "Lampropeltis holbrooki" ; Times: 1
+	Query: "rhinoclemmys pulcherrima" ; Times: 1
+	Query: "Trachemys yaquia" ; Times: 1
+	Query: "lepidochelys olivacea" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 3
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Pseudemys peninsularis" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:Phrynosoma" ; Times: 2
+	Query: "cheloniidae mydas sex" ; Times: 1
+	Query: "specificepithet:molossus genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:torquata genus:Hypsiglena" ; Times: 1
+	Query: "dermatemys mawii" ; Times: 2
+	Query: "specificepithet:obsoleta genus:Elaphe" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 2
+	Query: "crotalus atrox" ; Times: 1
+	Query: "staurotypus salvinii" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Batrachoseps" ; Times: 1
+
+
+End of report.
