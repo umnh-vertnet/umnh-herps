@@ -1,0 +1,152 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 85
+Number of records retrieved in searches: 689
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 24
+	Country: Australia ; Times: 3
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 33
+	Country: Vietnam ; Times: 16
+	Country: Belgium ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 26
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-26 ; Times: 3
+	Date: 2019-12-12 ; Times: 3
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-28 ; Times: 3
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-07 ; Times: 4
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-08 ; Times: 16
+	Date: 2019-12-10 ; Times: 5
+	Date: 2019-12-11 ; Times: 2
+	Date: 2019-12-05 ; Times: 3
+	Date: 2019-12-13 ; Times: 6
+	Date: 2019-12-14 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-01 ; Times: 2
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:canaliferus genus:Incilius" ; Times: 2
+	Query: "specificepithet:grandis genus:heosemys" ; Times: 1
+	Query: "Crotalus concolor" ; Times: 1
+	Query: "specificepithet:suspectum genus:Heloderma stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:coccifer genus:Incilius" ; Times: 2
+	Query: "specificepithet:pulchra class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:coniferus genus:Incilius" ; Times: 2
+	Query: "17045" ; Times: 1
+	Query: "conophis vittatus mexico" ; Times: 2
+	Query: "cnemidophorus deppei mexico" ; Times: 1
+	Query: "specificepithet:occidentalis genus:sceloporus year &gt;= 2015 year &lt;= 2017" ; Times: 1
+	Query: "Crotalus lutosus" ; Times: 2
+	Query: "specificepithet:haematiticus genus:Rhaebo" ; Times: 2
+	Query: "specificepithet:mazatlanensis genus:Incilius" ; Times: 2
+	Query: "leptodeira maculata mexico" ; Times: 1
+	Query: "Lampropeltis triangulum gentilis" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "reptiles zacatecas" ; Times: 2
+	Query: "specificepithet:marmorata class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "senticolis triaspis mexico" ; Times: 2
+	Query: "specificepithet:gilberti class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:elegans class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "specificepithet:semiannulata class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "Utah specificepithet:suspectum genus:heloderma" ; Times: 2
+	Query: "specificepithet:varius genus:Atelopus" ; Times: 1
+	Query: "18569" ; Times: 1
+	Query: "chelonoidis carbonaria" ; Times: 1
+	Query: "sceloporus torquatus zacatecas" ; Times: 2
+	Query: "Platysternon megacephalum" ; Times: 16
+	Query: "specificepithet:gilberti class:reptilia county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "ctenosaura texas cameron" ; Times: 1
+	Query: "Diadophis punctatus regalis" ; Times: 1
+	Query: "Trachemys+venusta" ; Times: 1
+	Query: "trachemys venusta mexico" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:atrox genus:Bothrops institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:alvarius genus:Incilius" ; Times: 2
+	Query: "specificepithet:elegans genus:thamnophis class:reptilia stateprovince:&#34;california&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:suspectum genus:heloderma institutioncode:UMNH" ; Times: 1
+	Query: "Kinosternon sonoriense" ; Times: 2
+	Query: "specificepithet:marmoreus genus:Incilius" ; Times: 2
+	Query: "Dermatemys+mawii" ; Times: 1
+	Query: "specificepithet:microscaphus genus:Anaxyrus" ; Times: 2
+	Query: "Nevada specificepithet:suspectum genus:heloderma" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "Oedipina taylori" ; Times: 1
+	Query: "specificepithet:compactilis genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:kelloggi genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:suspectum genus:Heloderma stateprovince:&#34;utah&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 596 download events in this period)
+Total number of records downloaded: 864
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 2
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 1
+	Country: United States ; Times: 9
+	Country: Sweden ; Times: 1
+	Country: Belgium ; Times: 6
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 6
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-28 ; Times: 2
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-05 ; Times: 6
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Crotalus concolor" ; Times: 1
+	Query: "genus:micrurus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Varanus varius" ; Times: 1
+	Query: "Acanthodactylus scutellatus" ; Times: 1
+	Query: "Crotalus lutosus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "reptiles zacatecas" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:marmoreus genus:Incilius country:&#34;México&#34;" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "anniella pulchra" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Oedipina taylori" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+
+
+End of report.
