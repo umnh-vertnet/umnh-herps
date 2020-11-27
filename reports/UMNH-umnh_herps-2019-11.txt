@@ -1,0 +1,186 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 165
+Number of records retrieved in searches: 1723
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Singapore ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 146
+	Country: Sweden ; Times: 13
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-15 ; Times: 4
+	Date: 2019-11-14 ; Times: 22
+	Date: 2019-11-17 ; Times: 4
+	Date: 2019-11-16 ; Times: 8
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-10 ; Times: 6
+	Date: 2019-11-13 ; Times: 14
+	Date: 2019-11-12 ; Times: 20
+	Date: 2019-11-26 ; Times: 2
+	Date: 2019-11-09 ; Times: 8
+	Date: 2019-11-28 ; Times: 2
+	Date: 2019-11-29 ; Times: 1
+	Date: 2019-11-20 ; Times: 6
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 1
+	Date: 2019-11-23 ; Times: 4
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-08 ; Times: 8
+	Date: 2019-11-27 ; Times: 3
+	Date: 2019-11-06 ; Times: 7
+	Date: 2019-11-07 ; Times: 23
+	Date: 2019-11-04 ; Times: 6
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-02 ; Times: 2
+	Date: 2019-11-03 ; Times: 5
+	Date: 2019-11-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:homopus" ; Times: 1
+	Query: "terrapene pima" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Maryland&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Gopherus agassizii 2016" ; Times: 7
+	Query: "loxocemus bicolor mexico" ; Times: 2
+	Query: "Gopherus agassizii 2019" ; Times: 7
+	Query: "specificepithet:Dekayi genus:Storeria stateprovince:&#34;Tennessee&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "16051" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 29
+	Query: "16053" ; Times: 1
+	Query: "leptodactylus morelos" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "17921" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Marion&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "phrynosoma asio mexico" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Lampropeltis pyromelana infralabialis" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "phrynosoma asio" ; Times: 1
+	Query: "kinosternon morelos" ; Times: 2
+	Query: "Diadophis punctatus regalis" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "kinosternon scorpioides morelos" ; Times: 2
+	Query: "specificepithet:nelsoni genus:terrapene order:testudines" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 18
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:UMNH" ; Times: 2
+	Query: "specificepithet:bottae genus:Charina stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "Crocodylus acutus 2016" ; Times: 4
+	Query: "genus:Trachemys stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "Heloderma suspectum county:&#34;Washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:lugubris" ; Times: 1
+	Query: "infernalis specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "catalognumber:22765 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Crocodylus acutus 2019" ; Times: 4
+	Query: "genus:Loxocemus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:mavortium genus:Ambystoma stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "trachemys morelos" ; Times: 2
+	Query: "20532" ; Times: 1
+	Query: "Gopherus agassizii 1972" ; Times: 7
+	Query: "specificepithet:oreganus genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "homopus" ; Times: 2
+	Query: "catalognumber:22763 institutioncode:UMNH" ; Times: 2
+	Query: "Vijayachelys silvatica" ; Times: 1
+	Query: "19720" ; Times: 2
+	Query: "Sistrurus catenatus 2016" ; Times: 4
+	Query: "specificepithet:carbonaria class:reptilia" ; Times: 3
+	Query: "Nevada lampropeltis pyromelana" ; Times: 2
+	Query: "Salvadora mexicana Mexico" ; Times: 1
+	Query: "institutioncode:UMNH" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 3
+	Query: "genus:Micrurus county:&#34;Volusia&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sistrurus catenatus 2019" ; Times: 4
+	Query: "19197" ; Times: 1
+	Query: "genus:Dendropsophus specificepithet:phlebodes" ; Times: 1
+	Query: "specificepithet:sonoriense genus:Kinosternon preparations:Skeleton" ; Times: 1
+	Query: "specificepithet:sonoriense genus:Kinosternon institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Harford&#34; stateprovince:&#34;Maryland&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Orleans&#34; stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria institutioncode:UMNH" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "18905" ; Times: 2
+	Query: "genus:anaxyrus county:&#34;san juan county&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "18906" ; Times: 1
+	Query: "macrochelys stateprovince:&#34;Mississippi&#34;" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1367 download events in this period)
+Total number of records downloaded: 476
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 31
+	Country: China ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 4
+	Date: 2019-11-21 ; Times: 9
+	Date: 2019-11-22 ; Times: 3
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 2
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-06 ; Times: 3
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-13 ; Times: 1
+	Date: 2019-11-01 ; Times: 1
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-23 ; Times: 2
+	Date: 2019-11-28 ; Times: 1
+	Date: 2019-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lecontei genus:Rhinocheilus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:semiannulata genus:Sonora stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 4
+	Query: "Gymnophthalmus speciosus" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:bottae genus:Charina stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Nevada lampropeltis pyromelana" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Laticauda" ; Times: 1
+	Query: "specificepithet:flagellum stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hobartsmithi genus:Tantilla" ; Times: 2
+	Query: "specificepithet:catenifer genus:Pituophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "specificepithet:carbonaria class:reptilia" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Physignathus lesueurii" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:sonoriense genus:Kinosternon institutioncode:UMNH" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Masticophis" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Hypsiboas crepitans" ; Times: 1
+	Query: "specificepithet:sirtalis genus:Thamnophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:mitchellii genus:Crotalus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:punctatus genus:Diadophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "macrochelys stateprovince:&#34;Mississippi&#34;" ; Times: 1
+
+
+End of report.
