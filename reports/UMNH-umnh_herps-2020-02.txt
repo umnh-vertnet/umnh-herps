@@ -1,0 +1,184 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 115
+Number of records retrieved in searches: 1576
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 73
+	Country: Unknown ; Times: 4
+	Country: Vietnam ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 33
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-03 ; Times: 2
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-26 ; Times: 3
+	Date: 2020-02-24 ; Times: 14
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-13 ; Times: 6
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-20 ; Times: 20
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-04 ; Times: 4
+	Date: 2020-02-16 ; Times: 4
+	Date: 2020-02-19 ; Times: 9
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 34
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-14 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia country:&#34;Nicaragua&#34; institutioncode:UMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:kaouthia genus:naja" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 2
+	Query: "apalone spinifera texas cameron" ; Times: 1
+	Query: "apalone spinifera emoryi texas" ; Times: 1
+	Query: "spinifera cameron" ; Times: 1
+	Query: "agkistrodon stateprovince:&#34;pennsylvania&#34;" ; Times: 2
+	Query: "17161" ; Times: 1
+	Query: "specificepithet:cyrtopsis order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "family:Colubridae country:&#34;Costa Rica&#34; institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:UMNH" ; Times: 1
+	Query: "apalone spinifera emoryi" ; Times: 1
+	Query: "apalone spinifera hidalgo county texas" ; Times: 1
+	Query: "genus:lampropeltis order:squamata stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "pseudemys gorzugi" ; Times: 1
+	Query: "specificepithet:intermedia genus:Siren county:&#34;cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Amphibia institutioncode:UMNH" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 4
+	Query: "specificepithet:glaucus genus:Sphaerodactylus institutioncode:UMNH" ; Times: 1
+	Query: "17132" ; Times: 2
+	Query: "apalone spinifera texas hidalgo" ; Times: 1
+	Query: "crotalus stephensi" ; Times: 1
+	Query: "genus:charina order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Gopherus berlandieri Zapata" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 2
+	Query: "genus:diadophis order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "institutioncode:UMNH" ; Times: 2
+	Query: "specificepithet:scutulatus genus:crotalus order:squamata stateprovince:&#34;Utah&#34;" ; Times: 3
+	Query: "heloderma suspectum" ; Times: 2
+	Query: "15969" ; Times: 1
+	Query: "family:Colubridae country:&#34;Nicaragua&#34; institutioncode:UMNH" ; Times: 1
+	Query: "genus:Crotalus oreganus year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "genus:heloderma order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "kinosternon scorpioides 7539" ; Times: 1
+	Query: "class:Reptilia country:&#34;Panama&#34; institutioncode:UMNH" ; Times: 2
+	Query: "Manolepis putnami" ; Times: 32
+	Query: "family:Colubridae country:&#34;Mexico&#34; institutioncode:UMNH" ; Times: 1
+	Query: "class:Reptilia institutioncode:UMNH" ; Times: 2
+	Query: "batagur baska" ; Times: 2
+	Query: "genus:crotalus order:squamata stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "specificepithet:xanti genus:Phyllodactylus institutioncode:UMNH" ; Times: 1
+	Query: "family:Colubridae institutioncode:UMNH" ; Times: 2
+	Query: "17179" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 3
+	Query: "genus:leptotyphlops order:squamata stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "spinifera hidalgo" ; Times: 2
+	Query: "family:Colubridae country:&#34;Panama&#34; institutioncode:UMNH" ; Times: 1
+	Query: "chelonoidis" ; Times: 1
+	Query: "genus:crotalus county:&#34;coconino&#34;" ; Times: 3
+	Query: "diadophis punctatus regalis" ; Times: 1
+	Query: "Gopherus berlandieri starr" ; Times: 1
+	Query: "apalone spinifera texas" ; Times: 1
+	Query: "specificepithet:muralis genus:Phyllodactylus institutioncode:UMNH" ; Times: 1
+	Query: "apalone spinifera cameron county texas" ; Times: 1
+	Query: "genus:necturus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "genus:Crotalus oreganus year &gt;= 2007 year &lt;= 2018" ; Times: 1
+	Query: "spinifera texas" ; Times: 2
+	Query: "20991" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 1023 download events in this period)
+Total number of records downloaded: 20440
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: El Salvador ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 23
+	Country: Vietnam ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-27 ; Times: 2
+	Date: 2020-02-10 ; Times: 4
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-26 ; Times: 4
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-06 ; Times: 4
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-05 ; Times: 5
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-20 ; Times: 4
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-29 ; Times: 2
+	Date: 2020-02-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Xantusia vigilis" ; Times: 1
+	Query: "Tantilla melanocephala" ; Times: 1
+	Query: "class:reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Oedipina" ; Times: 1
+	Query: "Urosaurus bicarinatus" ; Times: 1
+	Query: "class:reptilia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 6
+	Query: "deirochelys" ; Times: 2
+	Query: "class:Reptilia county:&#34;San Diego&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "genus:Chelonia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "pseudemys gorzugi" ; Times: 1
+	Query: "genus:macrochelys" ; Times: 1
+	Query: "class:Amphibia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Emys marmorata" ; Times: 1
+	Query: "class:Amphibia institutioncode:UMNH" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;Spea intermontana&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Anniellidae" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Amphibia country:&#34;México&#34;" ; Times: 2
+	Query: "centrolenidae" ; Times: 1
+	Query: "Taricha" ; Times: 1
+	Query: "Manolepis putnami" ; Times: 3
+	Query: "distance(location,geopoint(33.00721728873146,-116.82047633587615))&lt;47696" ; Times: 1
+	Query: "class:Reptilia institutioncode:UMNH" ; Times: 1
+	Query: "batagur baska" ; Times: 1
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "Platysternon megacephalum" ; Times: 2
+	Query: "el salvador" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "Uta squamata" ; Times: 1
+	Query: "plethodon dorsalis" ; Times: 2
+	Query: "class:amphibia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Malayemys" ; Times: 1
+
+
+End of report.
