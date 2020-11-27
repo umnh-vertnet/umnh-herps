@@ -1,0 +1,210 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 196
+Number of records retrieved in searches: 1936
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 176
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Tanzania ; Times: 8
+	Country: United Kingdom ; Times: 6
+	Country: Germany ; Times: 2
+	Country: Nicaragua ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 4
+	Date: 2020-01-28 ; Times: 7
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-17 ; Times: 12
+	Date: 2020-01-07 ; Times: 4
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-04 ; Times: 2
+	Date: 2020-01-14 ; Times: 3
+	Date: 2020-01-15 ; Times: 2
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-22 ; Times: 9
+	Date: 2020-01-10 ; Times: 16
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-27 ; Times: 7
+	Date: 2020-01-24 ; Times: 9
+	Date: 2020-01-21 ; Times: 11
+	Date: 2020-01-31 ; Times: 2
+	Date: 2020-01-18 ; Times: 70
+	Date: 2020-01-26 ; Times: 2
+	Date: 2020-01-23 ; Times: 30
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pretiosa Rana" ; Times: 2
+	Query: "specificepithet:rugulosus genus:Craugastor" ; Times: 1
+	Query: "specificepithet:pentadactylus genus:Leptodactylus" ; Times: 1
+	Query: "specificepithet:boulengeri genus:Scinax" ; Times: 1
+	Query: "specificepithet:oreganus genus:crotalus institutioncode:UMNH" ; Times: 3
+	Query: "Lampropeltis pyromelana" ; Times: 73
+	Query: "specificepithet:crepitans genus:Hypsiboas" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "specificepithet:pustulosus genus:Engystomops" ; Times: 1
+	Query: "Terrapene ornata country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea" ; Times: 1
+	Query: "Lampropeltis pyromelana infralabialis" ; Times: 5
+	Query: "specificepithet:pratti genus:Colostethus" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla" ; Times: 1
+	Query: "dermatemys" ; Times: 1
+	Query: "specificepithet:hammondii genus:Spea" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "specificepithet:diastema genus:Diasporus" ; Times: 1
+	Query: "Sceloporus smithi" ; Times: 1
+	Query: "Coluber constrictor hidalgo county texas" ; Times: 1
+	Query: "Terrapene ornata sonora" ; Times: 2
+	Query: "Malacochersus tornieri" ; Times: 13
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus institutioncode:UMNH" ; Times: 1
+	Query: "blandingii Emydoidea" ; Times: 1
+	Query: "Apalone spinifera Hidalgo County" ; Times: 1
+	Query: "Sceloporus edwardtaylori" ; Times: 1
+	Query: "specificepithet:glaucus genus:Sphaerodactylus institutioncode:UMNH" ; Times: 4
+	Query: "Apalone spinifera Hidalgo" ; Times: 2
+	Query: "luteiventris Rana" ; Times: 1
+	Query: "Apalone spinifera Hidalgo County Texas" ; Times: 1
+	Query: "specificepithet:ebraccatus genus:Dendropsophus" ; Times: 1
+	Query: "specificepithet:dentata genus:Litoria" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "stateprovince:&#34;utah&#34; (olson)" ; Times: 2
+	Query: "genus:Claudius stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "specificepithet:varius genus:Atelopus" ; Times: 1
+	Query: "specificepithet:wrightorum genus:Hyla" ; Times: 1
+	Query: "specificepithet:fitzingeri genus:Craugastor" ; Times: 1
+	Query: "Terrapene nelsoni" ; Times: 10
+	Query: "Apalone spinifera Cameron County" ; Times: 1
+	Query: "HERP-13731" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus institutioncode:UMNH" ; Times: 1
+	Query: "dermatemys mawii" ; Times: 3
+	Query: "Coleonyx mitratus" ; Times: 1
+	Query: "specificepithet:darwinii genus:Rhinoderma" ; Times: 1
+	Query: "Terrapene ornata mexico" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "HERP-15242" ; Times: 1
+	Query: "specificepithet:lesueurii genus:Litoria" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Chinandega&#34; country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus institutioncode:UMNH" ; Times: 6
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "specificepithet:petasatus genus:Triprion" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:UMNH" ; Times: 4
+	Query: "specificepithet:venulosus genus:Trachycephalus" ; Times: 1
+	Query: "specificepithet:viridis genus:crotalus institutioncode:UMNH" ; Times: 1
+	Query: "gopherus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:bolivianus genus:Leptodactylus" ; Times: 1
+	Query: "phyllobates lugubris" ; Times: 2
+	Query: "12356" ; Times: 1
+	Query: "specificepithet:rosenbergi genus:Hypsiboas" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "specificepithet:muralis genus:Phyllodactylus institutioncode:UMNH" ; Times: 6
+	Query: "Eleutherodactylus cameron county texas" ; Times: 1
+	Query: "specificepithet:boans genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:mystacinus genus:Leptodactylus" ; Times: 1
+	Query: "gopherus durango" ; Times: 1
+	Query: "micrurus nigrocinctus" ; Times: 1
+	Query: "specificepithet:lugubris genus:Phyllobates" ; Times: 1
+	Query: "specificepithet:muelleri genus:Xenopus" ; Times: 1
+	Query: "picta Chrysemys" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 70 (out of 1584 download events in this period)
+Total number of records downloaded: 821
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 52
+	Country: Tanzania ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-28 ; Times: 7
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-07 ; Times: 3
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-09 ; Times: 2
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-10 ; Times: 5
+	Date: 2020-01-24 ; Times: 19
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-31 ; Times: 10
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-25 ; Times: 11
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus nelsoni" ; Times: 1
+	Query: "Phyllodactylus muralis" ; Times: 1
+	Query: "&#34;bd&#34; order:anura" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 2
+	Query: "Sceloporus olloporus" ; Times: 1
+	Query: "Drymobius margaritiferus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 3
+	Query: "Gymnophthalmus speciosus" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "Ctenosaura hemilopha" ; Times: 1
+	Query: "Sceloporus utiformis" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Malacochersus tornieri" ; Times: 4
+	Query: "Uma notata" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Plestiodon septentrionalis" ; Times: 2
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Sceloporus tristichus" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 2
+	Query: "Sceloporus edwardtaylori" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Sphaerodactylus glaucus" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "Gonatodes albogularis" ; Times: 1
+	Query: "Aspidoscelis scalaris" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "Chamaeleo chamaeleon" ; Times: 1
+	Query: "Phrynosoma blainvillii" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Terrapene nelsoni" ; Times: 1
+	Query: "stateprovince:&#34;Tabasco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Basiliscus galeritus" ; Times: 1
+	Query: "Coleonyx mitratus" ; Times: 1
+	Query: "genus:Spea" ; Times: 1
+	Query: "gopherus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "genus:eurycea stateprovince:&#34;texas&#34; AND (NOT quadridigitata) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Sceloporus smithi" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 4
+	Query: "Phyllodactylus xanti" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus" ; Times: 1
+	Query: "specificepithet:Cornutum genus:Phrynosoma year &gt;= 1800 year &lt;= 1959" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "Ameiva praesignis" ; Times: 1
+	Query: "Uma inornata" ; Times: 1
+
+
+End of report.
