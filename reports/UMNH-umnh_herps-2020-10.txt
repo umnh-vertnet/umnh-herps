@@ -1,0 +1,175 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 1128
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: Unknown ; Times: 5
+	Country: Indonesia ; Times: 4
+	Country: United States ; Times: 44
+	Country: Colombia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-18 ; Times: 1
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-13 ; Times: 4
+	Date: 2020-10-10 ; Times: 2
+	Date: 2020-10-30 ; Times: 7
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-23 ; Times: 18
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-20 ; Times: 8
+	Date: 2020-10-27 ; Times: 8
+	Date: 2020-10-26 ; Times: 3
+	Date: 2020-10-25 ; Times: 2
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-01 ; Times: 5
+	Date: 2020-10-16 ; Times: 3
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-05 ; Times: 2
+	Date: 2020-10-04 ; Times: 3
+	Date: 2020-10-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Coahuila&#34; country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "Pseudemys gorzugi" ; Times: 1
+	Query: "Crotalus concolor" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;utah&#34; specificepithet:&#34;triangulum&#34;" ; Times: 1
+	Query: "genus:Rhinoclemmys country:&#34;Panama&#34;" ; Times: 2
+	Query: "catalognumber:16891" ; Times: 1
+	Query: "specificepithet:angustipons genus:Kinosternon country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "catalognumber:5551 institutioncode:UMNH" ; Times: 1
+	Query: "Coniophanes piceivittis" ; Times: 1
+	Query: "gopherus flavomarginatus" ; Times: 1
+	Query: "specificepithet:freminvillei genus:Stenorrhina stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "Crotalus lutosus" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:UMNH" ; Times: 1
+	Query: "Norops sericeus" ; Times: 1
+	Query: "catalognumber:19887" ; Times: 1
+	Query: "specificepithet:woodhousii stateprovince:&#34;Coahuila&#34;" ; Times: 1
+	Query: "Terrapene carolina stateprovince:&#34;Oklahoma&#34;" ; Times: 2
+	Query: "Phrynops geoffroanus" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;tooele&#34; specificepithet:&#34;triangulum&#34;" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 2
+	Query: "Terrapene coahuila" ; Times: 2
+	Query: "Platemys platycephala" ; Times: 1
+	Query: "specificepithet:muralis genus:Phyllodactylus institutioncode:UMNH" ; Times: 1
+	Query: "Norops lemurinus" ; Times: 2
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "posadasi" ; Times: 1
+	Query: "Sceloporus olivaceous" ; Times: 2
+	Query: "Dendropsophus ebraccatus" ; Times: 1
+	Query: "Norops biporcatus" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Mississippi&#34; (macrochelys)" ; Times: 1
+	Query: "Trachemys ornata" ; Times: 1
+	Query: "manouria" ; Times: 1
+	Query: "genus:Rhinella stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:minor genus:Sternotherus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Rhinoclemmys annulata" ; Times: 3
+	Query: "specificepithet:xanti genus:Phyllodactylus institutioncode:UMNH" ; Times: 1
+	Query: "genus:Incilius stateprovince:&#34;Sinaloa&#34;" ; Times: 1
+	Query: "genus:Rhinoclemmys stateprovince:&#34;Bocas del Toro&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "terrapene coahuila" ; Times: 2
+	Query: "genus:Lampropeltis county:&#34;tooele&#34;" ; Times: 1
+	Query: "Terrapene Coahuila." ; Times: 1
+	Query: "Rhadinaea posadasi" ; Times: 2
+	Query: "Hyla arenicolor" ; Times: 1
+	Query: "specificepithet:vulpinus genus:pantherophis year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "genus:Drymarchon class:reptilia stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "specificepithet:valliceps genus:incilius stateprovince:&#34;Veracruz&#34;" ; Times: 2
+	Query: "crotalus concolor" ; Times: 5
+	Query: "specificepithet:angustipons genus:Kinosternon country:&#34;Panama&#34;" ; Times: 1
+	Query: "order:Testudines stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "Chelydra acutirostris" ; Times: 2
+	Query: "uta 394" ; Times: 3
+	Query: "genus:Kinosternon country:&#34;Panama&#34;" ; Times: 8
+	Query: "manouria emys" ; Times: 3
+	Query: "genus:Drymarchon stateprovince:&#34;oaxaca&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1521 download events in this period)
+Total number of records downloaded: 2030
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 21
+	Country: Ethiopia ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 7
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-10 ; Times: 3
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-01 ; Times: 3
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-03 ; Times: 1
+	Date: 2020-10-11 ; Times: 1
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-14 ; Times: 3
+	Date: 2020-10-06 ; Times: 2
+	Date: 2020-10-05 ; Times: 4
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-28 ; Times: 1
+	Date: 2020-10-15 ; Times: 3
+	Date: 2020-10-29 ; Times: 2
+	Date: 2020-10-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Coleonyx brevis" ; Times: 2
+	Query: "order:caudata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 2
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "gopherus flavomarginatus" ; Times: 1
+	Query: "Agkistrodon" ; Times: 1
+	Query: "specificepithet:occidentalis genus:sceloporus stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:pipiens genus:Lithobates" ; Times: 1
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Centrolenidae" ; Times: 1
+	Query: "order:squamata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Terrapene carolina stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Pseudemys concinna" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "Terrapene coahuila" ; Times: 1
+	Query: "Liolaemus Chile" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "class:Reptilia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:sceloporus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Crotalinae" ; Times: 1
+	Query: "stateprovince:&#34;Mississippi&#34; (macrochelys)" ; Times: 1
+	Query: "terrapene coahuila" ; Times: 1
+	Query: "Nerodia erythrogaster" ; Times: 2
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "kinosternon hirtipes" ; Times: 1
+	Query: "Pachymedusa dacnicolor" ; Times: 2
+	Query: "Chironius" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "class:Amphibia county:&#34;cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:testudines stateprovince:&#34;mississippi&#34;" ; Times: 1
+
+
+End of report.
