@@ -1,0 +1,87 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 843
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Sweden ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 3
+	Date: 2020-06-24 ; Times: 1
+	Date: 2020-06-08 ; Times: 3
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-15 ; Times: 2
+	Date: 2020-06-07 ; Times: 3
+	Date: 2020-06-04 ; Times: 3
+	Date: 2020-06-05 ; Times: 6
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-01 ; Times: 4
+	Date: 2020-06-28 ; Times: 15
+	Date: 2020-06-10 ; Times: 1
+	Date: 2020-06-11 ; Times: 5
+	Date: 2020-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Crotalus concolor" ; Times: 2
+	Query: "genus:Crotalus county:&#34;Potter&#34; stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Darien&#34; country:&#34;Panama&#34; AND (NOT KU NOT MVZ NOT FMNH) institutioncode:UMNH" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Herrera&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "Enhydris pakistanica" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 3
+	Query: "specificepithet:skiltonianus genus:Plestiodon stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "oedipina sp" ; Times: 1
+	Query: "tantilla taeniata" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Darien&#34; country:&#34;Panama&#34; AND (NOT KU NOT MVZ NOT FMNH)" ; Times: 3
+	Query: "genus:Crotalus county:&#34;Cambria&#34; stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Plestiodon stateprovince:&#34;Nevada&#34;" ; Times: 6
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "Opheodrys Utah" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "locality:Cuatro cienegas stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "catalognumber:3187 institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:margaritiferus genus:Drymobius class:Reptilia country:&#34;Panama&#34;" ; Times: 1
+	Query: "scientificname:emydoidea blandingii" ; Times: 19
+	Query: "class:Reptilia locality:Yavisa stateprovince:&#34;Darien&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "Terrapene West Virginia Ritchie" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 474 download events in this period)
+Total number of records downloaded: 235
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-01 ; Times: 3
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:skiltonianus genus:Plestiodon stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Lepidochelys olivacea" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "heloderma suspectum" ; Times: 1
+
+
+End of report.
