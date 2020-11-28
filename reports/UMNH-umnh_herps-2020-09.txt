@@ -1,0 +1,161 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 777
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 52
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Taiwan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-17 ; Times: 2
+	Date: 2020-09-10 ; Times: 2
+	Date: 2020-09-12 ; Times: 11
+	Date: 2020-09-29 ; Times: 6
+	Date: 2020-09-28 ; Times: 4
+	Date: 2020-09-18 ; Times: 6
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-19 ; Times: 4
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-01 ; Times: 9
+	Date: 2020-09-04 ; Times: 4
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 3
+	Date: 2020-09-05 ; Times: 1
+	Date: 2020-09-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:ferreus genus:aneides county:&#34;lane&#34; stateprovince:&#34;oregon&#34; year &gt;= 1970" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Coahuila&#34;" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Sauk&#34; stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 3
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:UMNH" ; Times: 2
+	Query: "apalone spinifera emoryi" ; Times: 1
+	Query: "Graptemys geographica Indiana" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "chelus fimbriatus" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Trachemys venusta" ; Times: 1
+	Query: "genus:Phrynosoma stateprovince:&#34;Idaho&#34;" ; Times: 2
+	Query: "Tehuantepec genus:Sphaerodactylus" ; Times: 2
+	Query: "specificepithet:glaucus genus:Sphaerodactylus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "recordnumber:7251" ; Times: 2
+	Query: "specificepithet:angustipons genus:Kinosternon order:Testudines" ; Times: 1
+	Query: "chelydra acutirostris panama" ; Times: 1
+	Query: "genus:pelochelys" ; Times: 1
+	Query: "specificepithet:regilla county:&#34;inyo&#34;" ; Times: 1
+	Query: "Thamnophis 8865" ; Times: 2
+	Query: "specificepithet:minor genus:Sternotherus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Heloderma stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Terrapene ornata Missouri" ; Times: 5
+	Query: "family:Kinosternidae order:Testudines country:&#34;Panama&#34;" ; Times: 7
+	Query: "specificepithet:xanti genus:Phyllodactylus institutioncode:UMNH" ; Times: 2
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "catalognumber:22005 institutioncode:UMNH" ; Times: 2
+	Query: "epictia bakewelli" ; Times: 1
+	Query: "genus:Trachemys stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "Trachemys callirostris" ; Times: 1
+	Query: "sistrurus wisconsin" ; Times: 3
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1946 year &lt;= 1950" ; Times: 1
+	Query: "genus:boa stateprovince:&#34;Veracruz&#34;" ; Times: 2
+	Query: "specificepithet:muralis genus:Phyllodactylus institutioncode:UMNH" ; Times: 2
+	Query: "specificepithet:pulchra genus:anniella year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Hyla wrightorum arizona" ; Times: 1
+	Query: "specificepithet:pulchra genus:Anniella year &gt;= 1951 year &lt;= 1955" ; Times: 1
+	Query: "genus:Rhinoclemmys order:Testudines country:&#34;Panama&#34;" ; Times: 2
+	Query: "specificepithet:imperialis genus:coniophanes stateprovince:&#34;Veracruz&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 976 download events in this period)
+Total number of records downloaded: 1305
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Ghana ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Fiji ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 23
+	Country: Colombia ; Times: 1
+	Country: Norway ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-29 ; Times: 4
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-24 ; Times: 6
+	Date: 2020-09-03 ; Times: 3
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+	Date: 2020-09-07 ; Times: 2
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Tabasco" ; Times: 1
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "emydoidea" ; Times: 1
+	Query: "acris" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "atelopus varius" ; Times: 2
+	Query: "opheodrys vernalis" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 5
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "nerodia rhombifer" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 1
+	Query: "thamnophis proximus" ; Times: 1
+	Query: "chelus fimbriatus" ; Times: 1
+	Query: "Boa imperator México" ; Times: 1
+	Query: "Salvadora mexicana México" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "Geophis vntype:specimen" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "micrurus nigrocinctus" ; Times: 1
+	Query: "order:Serpentes" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "xenodon rabdocephalus" ; Times: 1
+	Query: "epictia bakewelli" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "Trachemys callirostris" ; Times: 1
+	Query: "Pachymedusa dacnicolor" ; Times: 2
+	Query: "loxocemus bicolor" ; Times: 1
+
+
+End of report.
