@@ -1,0 +1,206 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 200
+Number of records retrieved in searches: 1009
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 186
+	Country: Mexico ; Times: 1
+	Country: Panama ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-29 ; Times: 7
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-08 ; Times: 2
+	Date: 2020-08-14 ; Times: 3
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-12 ; Times: 9
+	Date: 2020-08-11 ; Times: 2
+	Date: 2020-08-31 ; Times: 3
+	Date: 2020-08-19 ; Times: 2
+	Date: 2020-08-01 ; Times: 5
+	Date: 2020-08-02 ; Times: 3
+	Date: 2020-08-03 ; Times: 123
+	Date: 2020-08-04 ; Times: 6
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-28 ; Times: 2
+	Date: 2020-08-07 ; Times: 3
+	Date: 2020-08-26 ; Times: 3
+	Date: 2020-08-27 ; Times: 2
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-23 ; Times: 11
+	Date: 2020-08-20 ; Times: 2
+	Date: 2020-08-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gopherus county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "pituophis deppei" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:glyptemys" ; Times: 2
+	Query: "genus:Heloderma county:&#34;Washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:insculpta genus:glyptemys stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "gopherus berlandieri starr" ; Times: 1
+	Query: "specificepithet:velox genus:cnemidophorus stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "chelydra acutirostris" ; Times: 1
+	Query: "Crotalus nuntius" ; Times: 3
+	Query: "specificepithet:oreganus genus:crotalus stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "conophis vittatus" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "14370" ; Times: 1
+	Query: "coronella girondica" ; Times: 1
+	Query: "Crotalus viridis nuntius" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;Wisconsin&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Shasta&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Salvadora lemniscata" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Terrapene county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "erythrolamprus mimus" ; Times: 1
+	Query: "Crocodylus acutus 2016" ; Times: 3
+	Query: "coniophanes piceivittis" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "crotalus viridis nuntius" ; Times: 1
+	Query: "chelydra acutirostris panama" ; Times: 1
+	Query: "Terrapene nelsoni" ; Times: 1
+	Query: "specificepithet:mutica genus:Apalone stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "genus:crotalus county:&#34;Washington&#34; stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "specificepithet:viridis genus:crotalus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "leptodeira nigrofasciata" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 5
+	Query: "specificepithet:nebulosa stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:umnh" ; Times: 1
+	Query: "specificepithet:xanti genus:Phyllodactylus institutioncode:UMNH" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "crotalus nuntius" ; Times: 1
+	Query: "specificepithet:oreganus genus:crotalus county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "micrurus mipartitus" ; Times: 4
+	Query: "Coluber constrictor foxii" ; Times: 1
+	Query: "Crocodylus acutus 2019" ; Times: 3
+	Query: "Anaxyrus kelloggi" ; Times: 1
+	Query: "manolepis putnami" ; Times: 1
+	Query: "specificepithet:glaucus genus:Sphaerodactylus institutioncode:UMNH" ; Times: 4
+	Query: "sternotherus peltifer" ; Times: 1
+	Query: "Coronella girondica" ; Times: 1
+	Query: "genus:crotalus county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 4
+	Query: "specificepithet:muralis genus:Phyllodactylus institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:glaucus genus:Sphaerodactylus" ; Times: 114
+	Query: "genus:glyptemys stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "specificepithet:catenifer genus:Pituophis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 756 download events in this period)
+Total number of records downloaded: 22995
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 68
+	Country: Switzerland ; Times: 1
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 6
+	Date: 2020-08-17 ; Times: 15
+	Date: 2020-08-15 ; Times: 3
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-11 ; Times: 3
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-31 ; Times: 3
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-27 ; Times: 4
+	Date: 2020-08-01 ; Times: 2
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-03 ; Times: 1
+	Date: 2020-08-04 ; Times: 3
+	Date: 2020-08-05 ; Times: 3
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-29 ; Times: 7
+	Date: 2020-08-08 ; Times: 4
+	Date: 2020-08-09 ; Times: 1
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-20 ; Times: 2
+	Date: 2020-08-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Squamata" ; Times: 1
+	Query: "pituophis deppei" ; Times: 1
+	Query: "Salvadora mexicana" ; Times: 1
+	Query: "conophis vittatus" ; Times: 1
+	Query: "Texas genus:Heterodon" ; Times: 1
+	Query: "Texas genus:Hypsiglena" ; Times: 1
+	Query: "Texas genus:Masticophis" ; Times: 1
+	Query: "Texas specificepithet:flavescens genus:Kinosternon" ; Times: 1
+	Query: "coniophanes imperialis" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "stenorrhina freminvillei" ; Times: 1
+	Query: "emydoidea blandingii" ; Times: 1
+	Query: "Texas genus:Chelydra" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 1
+	Query: "Texas genus:Pseudemys" ; Times: 1
+	Query: "Texas specificepithet:spinifera genus:Apalone" ; Times: 1
+	Query: "Salvadora lemniscata" ; Times: 1
+	Query: "coronella girondica" ; Times: 1
+	Query: "Texas specificepithet:proximus genus:Thamnophis" ; Times: 1
+	Query: "genus:Batrachoseps" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Shasta&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "hypsiglena torquata" ; Times: 1
+	Query: "ninia sebae" ; Times: 1
+	Query: "Texas specificepithet:rhombifer genus:Nerodia" ; Times: 1
+	Query: "Texas genus:Arizona" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "spilotes pullatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "coniophanes piceivittis" ; Times: 1
+	Query: "drymarchon melanurus" ; Times: 1
+	Query: "Texas specificepithet:calligaster genus:Lampropeltis" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "order:Testudines" ; Times: 2
+	Query: "Sceloporus graciosus" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Crotalus nuntius" ; Times: 1
+	Query: "cemophora coccinea" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "imantodes cenchoa" ; Times: 1
+	Query: "class:Amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "Texas specificepithet:erythrogaster genus:Nerodia" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "Texas genus:Sonora" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "class:reptilia locality:pecos river" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 1
+	Query: "Texas genus:Opheodrys" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 2
+	Query: "drymobius margaritiferus" ; Times: 1
+	Query: "conophis lineatus" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 2
+	Query: "Texas specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "macrochelys temminckii" ; Times: 1
+	Query: "manolepis putnami" ; Times: 1
+	Query: "Emydoidea blandingii" ; Times: 1
+	Query: "enulius flavitorques" ; Times: 1
+	Query: "micrurus mipartitus" ; Times: 2
+	Query: "leptodeira nigrofasciata" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Batrachoseps" ; Times: 2
+	Query: "crotalus horridus" ; Times: 2
+
+
+End of report.
