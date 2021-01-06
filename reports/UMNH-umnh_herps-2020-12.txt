@@ -1,0 +1,183 @@
+Report for Institution Code UMNH, Resource umnh_herps
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 472
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 51
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 13
+	Country: Sweden ; Times: 10
+	Country: Peru ; Times: 2
+	Country: Bolivia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-21 ; Times: 1
+	Date: 2020-12-20 ; Times: 2
+	Date: 2020-12-23 ; Times: 4
+	Date: 2020-12-22 ; Times: 2
+	Date: 2020-12-03 ; Times: 11
+	Date: 2020-12-31 ; Times: 2
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-18 ; Times: 3
+	Date: 2020-12-19 ; Times: 4
+	Date: 2020-12-09 ; Times: 6
+	Date: 2020-12-08 ; Times: 4
+	Date: 2020-12-10 ; Times: 1
+	Date: 2020-12-11 ; Times: 7
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-04 ; Times: 18
+	Date: 2020-12-14 ; Times: 5
+	Date: 2020-12-02 ; Times: 6
+	Date: 2020-12-01 ; Times: 6
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "18646" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Franklin&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:chrysemys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "cerastes Tucson" ; Times: 1
+	Query: "genus:Apalone stateprovince:&#34;Louisiana&#34;" ; Times: 3
+	Query: "(21726)" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Franklin&#34; stateprovince:&#34;Kansas&#34; year &gt;= 1900 year &lt;= 1926 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia locality:Tabasco country:&#34;Mexico&#34;" ; Times: 2
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "genus:hydromedusa" ; Times: 1
+	Query: "specificepithet:mavortium genus:ambystoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "family:Trionychidae county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Siebenrockiella crassicollis" ; Times: 1
+	Query: "Yeates" ; Times: 2
+	Query: "Crocodylus acutus mexico" ; Times: 1
+	Query: "genus:Graptemys stateprovince:&#34;Kentucky&#34;" ; Times: 2
+	Query: "Cuora trifasciata" ; Times: 1
+	Query: "cerastes tucson" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Coronella girondica" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Franklin&#34; stateprovince:&#34;Kansas&#34; year &gt;= 1920 year &lt;= 1939 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "21726" ; Times: 1
+	Query: "genus:Urosaurus county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:cystignathoides order:Anura county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:oreganus genus:Crotalus stateprovince:&#34;Utah&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "erpeton tentaculatum" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "carettochelys insculpta" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Franklin&#34; stateprovince:&#34;Kansas&#34; year &gt;= 1910 year &lt;= 1939 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cuora amboinensis" ; Times: 1
+	Query: "Crotalus nuntius" ; Times: 1
+	Query: "specificepithet:coahuila genus:terrapene" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon county:&#34;scurry&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Xenopus muelleri" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Rio Arriba&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "crotalus concolor" ; Times: 3
+	Query: "Mauremys reevesii" ; Times: 1
+	Query: "Cochranella pulverata" ; Times: 1
+	Query: "catalognumber:13834 institutioncode:UMNH" ; Times: 1
+	Query: "Mauremys sinensis" ; Times: 1
+	Query: "specificepithet:melanurus genus:Drymarchon" ; Times: 3
+	Query: "gorzugi" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Jutiapa&#34; country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Miami&#34; stateprovince:&#34;Kansas&#34; year &gt;= 1880 year &lt;= 1930 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Pituophis county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Mauremys mutica" ; Times: 1
+	Query: "locality:homestead institutioncode:UMNH" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:Glyptemys" ; Times: 1
+	Query: "genus:Emys stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "specificepithet:bottae genus:charina county:&#34;lake&#34;" ; Times: 1
+	Query: "Masticophis taeniatus" ; Times: 2
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "Cuora flavomarginata" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Riley&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Gopherus flavomarginatus" ; Times: 4
+	Query: "Sacalia bealei" ; Times: 1
+	Query: "Cyclemys dentata" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Franklin&#34; stateprovince:&#34;Kansas&#34; year &gt;= 1926 year &lt;= 1926 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "E.5616.A" ; Times: 1
+	Query: "Heosemys grandis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 705 download events in this period)
+Total number of records downloaded: 2018
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 13
+	Country: United States ; Times: 27
+	Country: Colombia ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-21 ; Times: 1
+	Date: 2020-12-23 ; Times: 13
+	Date: 2020-12-02 ; Times: 22
+	Date: 2020-12-18 ; Times: 2
+	Date: 2020-12-07 ; Times: 2
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-04 ; Times: 5
+	Date: 2020-12-03 ; Times: 3
+	Date: 2020-12-15 ; Times: 3
+	Date: 2020-12-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "gorzugi" ; Times: 1
+	Query: "Coleonyx brevis" ; Times: 1
+	Query: "Trapelus mutabilis" ; Times: 1
+	Query: "Incilius alvarius" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 2
+	Query: "plethodon dorsalis" ; Times: 1
+	Query: "Mauremys leprosa" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 8
+	Query: "plethodon glutinosus" ; Times: 2
+	Query: "Ensatina eschscholtzii" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "eurycea longicauda" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Coronella girondica" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 2
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "aneides ferreus" ; Times: 1
+	Query: "genus:MICRURUS country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "Chalcides ocellatus" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 2
+	Query: "class:Reptilia country:Brazil" ; Times: 2
+	Query: "Plethodon metcalfi" ; Times: 2
+	Query: "Plethodon Cinereus" ; Times: 1
+	Query: "Natrix maura" ; Times: 1
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "(Hemidactylium scutatum)" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "specificepithet:imbricata genus:Eretmochelys year &lt;= 1961" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "genus:crotalus family:viperidae country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "Dendropsophus microcephalus" ; Times: 2
+	Query: "Testudo hermanni" ; Times: 1
+	Query: "genus:Crotalus family:Viperidae country:&#34;Mexico&#34; continent:America" ; Times: 1
+	Query: "plethodon jordani" ; Times: 1
+	Query: "desmognathus quadramaculatus" ; Times: 2
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "Engystomops pustulosus" ; Times: 1
+	Query: "kinosternon leucostomum" ; Times: 1
+	Query: "agama agama" ; Times: 1
+
+
+End of report.
